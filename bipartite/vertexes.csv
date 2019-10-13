@@ -1,0 +1,3121 @@
+id,label,subset
+1,HOU-1975,1
+2,MIL-1975,1
+3,DET-1975,1
+4,CHI-1975,1
+5,NOJ-1975,1
+6,KCO-1975,1
+7,LAL-1975,1
+8,POR-1975,1
+9,BOS-1975,1
+10,PHO-1975,1
+11,NYK-1975,1
+12,GSW-1975,1
+13,PHI-1975,1
+14,CLE-1975,1
+15,SEA-1975,1
+16,ATL-1975,1
+17,BUF-1975,1
+18,WSB-1975,1
+19,SEA-1976,1
+20,LAL-1976,1
+21,PHO-1976,1
+22,BUF-1976,1
+23,POR-1976,1
+24,KCK-1976,1
+25,BOS-1976,1
+26,HOU-1976,1
+27,NYK-1976,1
+28,GSW-1976,1
+29,CLE-1976,1
+30,NOJ-1976,1
+31,CHI-1976,1
+32,WSB-1976,1
+33,PHI-1976,1
+34,MIL-1976,1
+35,ATL-1976,1
+36,DET-1976,1
+37,BUF-1977,1
+38,LAL-1977,1
+39,PHO-1977,1
+40,NYN-1977,1
+41,BOS-1977,1
+42,SEA-1977,1
+43,ATL-1977,1
+44,DET-1977,1
+45,PHI-1977,1
+46,KCK-1977,1
+47,GSW-1977,1
+48,NYK-1977,1
+49,NOJ-1977,1
+50,IND-1977,1
+51,WSB-1977,1
+52,CHI-1977,1
+53,CLE-1977,1
+54,MIL-1977,1
+55,SAS-1977,1
+56,POR-1977,1
+57,DEN-1977,1
+58,HOU-1977,1
+59,BOS-1978,1
+60,HOU-1978,1
+61,LAL-1978,1
+62,PHO-1978,1
+63,KCK-1978,1
+64,CHI-1978,1
+65,NJN-1978,1
+66,BUF-1978,1
+67,NOJ-1978,1
+68,WSB-1978,1
+69,IND-1978,1
+70,DET-1978,1
+71,GSW-1978,1
+72,NYK-1978,1
+73,ATL-1978,1
+74,MIL-1978,1
+75,PHI-1978,1
+76,CLE-1978,1
+77,SAS-1978,1
+78,SEA-1978,1
+79,POR-1978,1
+80,DEN-1978,1
+81,LAL-1979,1
+82,GSW-1979,1
+83,PHO-1979,1
+84,KCK-1979,1
+85,BOS-1979,1
+86,SEA-1979,1
+87,NOJ-1979,1
+88,WSB-1979,1
+89,IND-1979,1
+90,HOU-1979,1
+91,NYK-1979,1
+92,NJN-1979,1
+93,DET-1979,1
+94,MIL-1979,1
+95,PHI-1979,1
+96,DEN-1979,1
+97,CLE-1979,1
+98,POR-1979,1
+99,SAS-1979,1
+100,CHI-1979,1
+101,ATL-1979,1
+102,SDC-1979,1
+103,LAL-1980,1
+104,GSW-1980,1
+105,PHO-1980,1
+106,BOS-1980,1
+107,CHI-1980,1
+108,WSB-1980,1
+109,SEA-1980,1
+110,IND-1980,1
+111,SDC-1980,1
+112,HOU-1980,1
+113,NJN-1980,1
+114,SAS-1980,1
+115,POR-1980,1
+116,MIL-1980,1
+117,DET-1980,1
+118,PHI-1980,1
+119,KCK-1980,1
+120,UTA-1980,1
+121,DEN-1980,1
+122,ATL-1980,1
+123,CLE-1980,1
+124,NYK-1980,1
+125,LAL-1981,1
+126,GSW-1981,1
+127,IND-1981,1
+128,PHO-1981,1
+129,BOS-1981,1
+130,SEA-1981,1
+131,WSB-1981,1
+132,POR-1981,1
+133,UTA-1981,1
+134,DET-1981,1
+135,SDC-1981,1
+136,KCK-1981,1
+137,DAL-1981,1
+138,CLE-1981,1
+139,SAS-1981,1
+140,MIL-1981,1
+141,ATL-1981,1
+142,NYK-1981,1
+143,PHI-1981,1
+144,NJN-1981,1
+145,CHI-1981,1
+146,HOU-1981,1
+147,DEN-1981,1
+148,LAL-1982,1
+149,PHO-1982,1
+150,DAL-1982,1
+151,BOS-1982,1
+152,POR-1982,1
+153,SEA-1982,1
+154,NJN-1982,1
+155,WSB-1982,1
+156,SAS-1982,1
+157,IND-1982,1
+158,PHI-1982,1
+159,CLE-1982,1
+160,DET-1982,1
+161,MIL-1982,1
+162,SDC-1982,1
+163,GSW-1982,1
+164,NYK-1982,1
+165,ATL-1982,1
+166,UTA-1982,1
+167,KCK-1982,1
+168,CHI-1982,1
+169,HOU-1982,1
+170,DEN-1982,1
+171,LAL-1983,1
+172,PHO-1983,1
+173,DAL-1983,1
+174,BOS-1983,1
+175,PHI-1983,1
+176,UTA-1983,1
+177,SDC-1983,1
+178,CLE-1983,1
+179,NJN-1983,1
+180,HOU-1983,1
+181,WSB-1983,1
+182,SAS-1983,1
+183,DET-1983,1
+184,CHI-1983,1
+185,GSW-1983,1
+186,MIL-1983,1
+187,SEA-1983,1
+188,ATL-1983,1
+189,POR-1983,1
+190,IND-1983,1
+191,NYK-1983,1
+192,KCK-1983,1
+193,DEN-1983,1
+194,LAL-1984,1
+195,PHO-1984,1
+196,DAL-1984,1
+197,BOS-1984,1
+198,UTA-1984,1
+199,DEN-1984,1
+200,MIL-1984,1
+201,CLE-1984,1
+202,HOU-1984,1
+203,WSB-1984,1
+204,SAS-1984,1
+205,DET-1984,1
+206,NJN-1984,1
+207,GSW-1984,1
+208,SDC-1984,1
+209,SEA-1984,1
+210,ATL-1984,1
+211,CHI-1984,1
+212,KCK-1984,1
+213,POR-1984,1
+214,IND-1984,1
+215,NYK-1984,1
+216,PHI-1984,1
+217,LAL-1985,1
+218,PHO-1985,1
+219,DAL-1985,1
+220,BOS-1985,1
+221,GSW-1985,1
+222,UTA-1985,1
+223,CLE-1985,1
+224,NYK-1985,1
+225,WSB-1985,1
+226,SAS-1985,1
+227,PHI-1985,1
+228,DET-1985,1
+229,NJN-1985,1
+230,POR-1985,1
+231,MIL-1985,1
+232,SEA-1985,1
+233,LAC-1985,1
+234,ATL-1985,1
+235,IND-1985,1
+236,KCK-1985,1
+237,DEN-1985,1
+238,CHI-1985,1
+239,HOU-1985,1
+240,LAL-1986,1
+241,PHO-1986,1
+242,SAC-1986,1
+243,DAL-1986,1
+244,BOS-1986,1
+245,CLE-1986,1
+246,IND-1986,1
+247,NYK-1986,1
+248,UTA-1986,1
+249,GSW-1986,1
+250,CHI-1986,1
+251,PHI-1986,1
+252,ATL-1986,1
+253,LAC-1986,1
+254,DET-1986,1
+255,NJN-1986,1
+256,WSB-1986,1
+257,POR-1986,1
+258,MIL-1986,1
+259,SEA-1986,1
+260,SAS-1986,1
+261,DEN-1986,1
+262,HOU-1986,1
+263,LAL-1987,1
+264,PHO-1987,1
+265,WSB-1987,1
+266,DAL-1987,1
+267,BOS-1987,1
+268,DEN-1987,1
+269,HOU-1987,1
+270,IND-1987,1
+271,CLE-1987,1
+272,NJN-1987,1
+273,UTA-1987,1
+274,GSW-1987,1
+275,CHI-1987,1
+276,PHI-1987,1
+277,ATL-1987,1
+278,LAC-1987,1
+279,POR-1987,1
+280,SAS-1987,1
+281,MIL-1987,1
+282,DET-1987,1
+283,NYK-1987,1
+284,SEA-1987,1
+285,SAC-1987,1
+286,LAL-1988,1
+287,BOS-1988,1
+288,PHO-1988,1
+289,DEN-1988,1
+290,DAL-1988,1
+291,WSB-1988,1
+292,SAS-1988,1
+293,HOU-1988,1
+294,POR-1988,1
+295,IND-1988,1
+296,PHI-1988,1
+297,NJN-1988,1
+298,UTA-1988,1
+299,ATL-1988,1
+300,DET-1988,1
+301,LAC-1988,1
+302,CLE-1988,1
+303,MIL-1988,1
+304,CHI-1988,1
+305,NYK-1988,1
+306,GSW-1988,1
+307,SEA-1988,1
+308,SAC-1988,1
+309,LAL-1989,1
+310,BOS-1989,1
+311,DEN-1989,1
+312,DAL-1989,1
+313,DET-1989,1
+314,SAC-1989,1
+315,WSB-1989,1
+316,GSW-1989,1
+317,SAS-1989,1
+318,POR-1989,1
+319,PHI-1989,1
+320,NJN-1989,1
+321,UTA-1989,1
+322,SEA-1989,1
+323,LAC-1989,1
+324,ATL-1989,1
+325,HOU-1989,1
+326,CHH-1989,1
+327,MIL-1989,1
+328,CHI-1989,1
+329,PHO-1989,1
+330,MIA-1989,1
+331,CLE-1989,1
+332,IND-1989,1
+333,NYK-1989,1
+334,ORL-1990,1
+335,DEN-1990,1
+336,DET-1990,1
+337,SAC-1990,1
+338,WSB-1990,1
+339,DAL-1990,1
+340,MIL-1990,1
+341,CHH-1990,1
+342,PHI-1990,1
+343,SAS-1990,1
+344,CHI-1990,1
+345,BOS-1990,1
+346,UTA-1990,1
+347,LAC-1990,1
+348,SEA-1990,1
+349,ATL-1990,1
+350,PHO-1990,1
+351,CLE-1990,1
+352,GSW-1990,1
+353,NJN-1990,1
+354,HOU-1990,1
+355,MIN-1990,1
+356,POR-1990,1
+357,NYK-1990,1
+358,LAL-1990,1
+359,MIA-1990,1
+360,IND-1990,1
+361,POR-1991,1
+362,DEN-1991,1
+363,ORL-1991,1
+364,DET-1991,1
+365,WSB-1991,1
+366,DAL-1991,1
+367,MIL-1991,1
+368,NJN-1991,1
+369,PHI-1991,1
+370,SAS-1991,1
+371,CHI-1991,1
+372,GSW-1991,1
+373,MIA-1991,1
+374,UTA-1991,1
+375,LAC-1991,1
+376,SEA-1991,1
+377,ATL-1991,1
+378,PHO-1991,1
+379,CLE-1991,1
+380,BOS-1991,1
+381,CHH-1991,1
+382,SAC-1991,1
+383,MIN-1991,1
+384,LAL-1991,1
+385,HOU-1991,1
+386,NYK-1991,1
+387,IND-1991,1
+388,POR-1992,1
+389,DEN-1992,1
+390,ORL-1992,1
+391,WSB-1992,1
+392,NJN-1992,1
+393,DET-1992,1
+394,GSW-1992,1
+395,PHI-1992,1
+396,SAS-1992,1
+397,CHH-1992,1
+398,NYK-1992,1
+399,CHI-1992,1
+400,MIA-1992,1
+401,ATL-1992,1
+402,UTA-1992,1
+403,BOS-1992,1
+404,MIN-1992,1
+405,SEA-1992,1
+406,CLE-1992,1
+407,DAL-1992,1
+408,SAC-1992,1
+409,MIL-1992,1
+410,LAL-1992,1
+411,LAC-1992,1
+412,HOU-1992,1
+413,PHO-1992,1
+414,IND-1992,1
+415,MIL-1993,1
+416,BOS-1993,1
+417,DEN-1993,1
+418,HOU-1993,1
+419,WSB-1993,1
+420,NJN-1993,1
+421,DET-1993,1
+422,PHO-1993,1
+423,GSW-1993,1
+424,ORL-1993,1
+425,PHI-1993,1
+426,SAS-1993,1
+427,NYK-1993,1
+428,CHI-1993,1
+429,SAC-1993,1
+430,SEA-1993,1
+431,MIA-1993,1
+432,ATL-1993,1
+433,UTA-1993,1
+434,MIN-1993,1
+435,CLE-1993,1
+436,LAL-1993,1
+437,CHH-1993,1
+438,DAL-1993,1
+439,POR-1993,1
+440,LAC-1993,1
+441,IND-1993,1
+442,BOS-1994,1
+443,DEN-1994,1
+444,WSB-1994,1
+445,LAC-1994,1
+446,PHO-1994,1
+447,GSW-1994,1
+448,DET-1994,1
+449,NJN-1994,1
+450,ORL-1994,1
+451,SAS-1994,1
+452,NYK-1994,1
+453,CHI-1994,1
+454,SEA-1994,1
+455,MIA-1994,1
+456,ATL-1994,1
+457,PHI-1994,1
+458,MIL-1994,1
+459,MIN-1994,1
+460,CLE-1994,1
+461,CHH-1994,1
+462,UTA-1994,1
+463,LAL-1994,1
+464,SAC-1994,1
+465,HOU-1994,1
+466,DAL-1994,1
+467,POR-1994,1
+468,IND-1994,1
+469,SAC-1995,1
+470,PHI-1995,1
+471,DEN-1995,1
+472,CHH-1995,1
+473,DET-1995,1
+474,PHO-1995,1
+475,GSW-1995,1
+476,ATL-1995,1
+477,NJN-1995,1
+478,ORL-1995,1
+479,SAS-1995,1
+480,NYK-1995,1
+481,CHI-1995,1
+482,SEA-1995,1
+483,MIA-1995,1
+484,MIL-1995,1
+485,CLE-1995,1
+486,UTA-1995,1
+487,LAL-1995,1
+488,HOU-1995,1
+489,DAL-1995,1
+490,BOS-1995,1
+491,MIN-1995,1
+492,POR-1995,1
+493,WSB-1995,1
+494,IND-1995,1
+495,LAC-1995,1
+496,DEN-1996,1
+497,CHH-1996,1
+498,SAS-1996,1
+499,MIN-1996,1
+500,PHI-1996,1
+501,CLE-1996,1
+502,VAN-1996,1
+503,NJN-1996,1
+504,ORL-1996,1
+505,TOR-1996,1
+506,NYK-1996,1
+507,GSW-1996,1
+508,SEA-1996,1
+509,MIA-1996,1
+510,ATL-1996,1
+511,MIL-1996,1
+512,PHO-1996,1
+513,BOS-1996,1
+514,LAC-1996,1
+515,UTA-1996,1
+516,IND-1996,1
+517,LAL-1996,1
+518,DAL-1996,1
+519,HOU-1996,1
+520,CHI-1996,1
+521,WSB-1996,1
+522,SAC-1996,1
+523,POR-1996,1
+524,DET-1996,1
+525,SAC-1997,1
+526,VAN-1997,1
+527,CHH-1997,1
+528,SAS-1997,1
+529,IND-1997,1
+530,DEN-1997,1
+531,MIL-1997,1
+532,ATL-1997,1
+533,WSB-1997,1
+534,POR-1997,1
+535,ORL-1997,1
+536,UTA-1997,1
+537,MIA-1997,1
+538,GSW-1997,1
+539,NJN-1997,1
+540,DET-1997,1
+541,HOU-1997,1
+542,BOS-1997,1
+543,LAC-1997,1
+544,TOR-1997,1
+545,LAL-1997,1
+546,DAL-1997,1
+547,CLE-1997,1
+548,NYK-1997,1
+549,PHO-1997,1
+550,CHI-1997,1
+551,PHI-1997,1
+552,MIN-1997,1
+553,SEA-1997,1
+554,SAC-1998,1
+555,VAN-1998,1
+556,SAS-1998,1
+557,DEN-1998,1
+558,MIL-1998,1
+559,CLE-1998,1
+560,ATL-1998,1
+561,POR-1998,1
+562,BOS-1998,1
+563,ORL-1998,1
+564,UTA-1998,1
+565,DAL-1998,1
+566,SEA-1998,1
+567,GSW-1998,1
+568,CHH-1998,1
+569,MIA-1998,1
+570,LAC-1998,1
+571,HOU-1998,1
+572,LAL-1998,1
+573,PHI-1998,1
+574,NJN-1998,1
+575,IND-1998,1
+576,TOR-1998,1
+577,NYK-1998,1
+578,CHI-1998,1
+579,PHO-1998,1
+580,MIN-1998,1
+581,WAS-1998,1
+582,DET-1998,1
+583,SAC-1999,1
+584,VAN-1999,1
+585,DEN-1999,1
+586,MIL-1999,1
+587,CLE-1999,1
+588,BOS-1999,1
+589,ORL-1999,1
+590,UTA-1999,1
+591,DAL-1999,1
+592,POR-1999,1
+593,CHH-1999,1
+594,MIA-1999,1
+595,SEA-1999,1
+596,HOU-1999,1
+597,CHI-1999,1
+598,PHI-1999,1
+599,IND-1999,1
+600,ATL-1999,1
+601,LAL-1999,1
+602,GSW-1999,1
+603,NJN-1999,1
+604,MIN-1999,1
+605,TOR-1999,1
+606,NYK-1999,1
+607,DET-1999,1
+608,PHO-1999,1
+609,WAS-1999,1
+610,LAC-1999,1
+611,SAS-1999,1
+612,ORL-2000,1
+613,DEN-2000,1
+614,VAN-2000,1
+615,MIL-2000,1
+616,LAC-2000,1
+617,BOS-2000,1
+618,SAC-2000,1
+619,HOU-2000,1
+620,CHI-2000,1
+621,POR-2000,1
+622,WAS-2000,1
+623,MIN-2000,1
+624,SEA-2000,1
+625,IND-2000,1
+626,CLE-2000,1
+627,GSW-2000,1
+628,PHO-2000,1
+629,TOR-2000,1
+630,ATL-2000,1
+631,PHI-2000,1
+632,MIA-2000,1
+633,DAL-2000,1
+634,SAS-2000,1
+635,CHH-2000,1
+636,NYK-2000,1
+637,LAL-2000,1
+638,DET-2000,1
+639,NJN-2000,1
+640,UTA-2000,1
+641,VAN-2001,1
+642,DEN-2001,1
+643,ORL-2001,1
+644,DAL-2001,1
+645,WAS-2001,1
+646,MIL-2001,1
+647,SAS-2001,1
+648,BOS-2001,1
+649,SAC-2001,1
+650,HOU-2001,1
+651,POR-2001,1
+652,DET-2001,1
+653,MIN-2001,1
+654,SEA-2001,1
+655,PHI-2001,1
+656,IND-2001,1
+657,CHI-2001,1
+658,UTA-2001,1
+659,GSW-2001,1
+660,PHO-2001,1
+661,TOR-2001,1
+662,ATL-2001,1
+663,MIA-2001,1
+664,LAC-2001,1
+665,CLE-2001,1
+666,CHH-2001,1
+667,NYK-2001,1
+668,LAL-2001,1
+669,NJN-2001,1
+670,DEN-2002,1
+671,DAL-2002,1
+672,ATL-2002,1
+673,WAS-2002,1
+674,DET-2002,1
+675,MIA-2002,1
+676,MIL-2002,1
+677,UTA-2002,1
+678,POR-2002,1
+679,BOS-2002,1
+680,MEM-2002,1
+681,NYK-2002,1
+682,CHI-2002,1
+683,GSW-2002,1
+684,ORL-2002,1
+685,TOR-2002,1
+686,CHH-2002,1
+687,MIN-2002,1
+688,SEA-2002,1
+689,PHO-2002,1
+690,PHI-2002,1
+691,IND-2002,1
+692,SAC-2002,1
+693,SAS-2002,1
+694,LAC-2002,1
+695,HOU-2002,1
+696,LAL-2002,1
+697,CLE-2002,1
+698,NJN-2002,1
+699,DAL-2003,1
+700,ATL-2003,1
+701,NOH-2003,1
+702,MIA-2003,1
+703,MIL-2003,1
+704,SEA-2003,1
+705,TOR-2003,1
+706,UTA-2003,1
+707,DEN-2003,1
+708,POR-2003,1
+709,NYK-2003,1
+710,GSW-2003,1
+711,ORL-2003,1
+712,DET-2003,1
+713,BOS-2003,1
+714,MEM-2003,1
+715,CHI-2003,1
+716,IND-2003,1
+717,SAC-2003,1
+718,CLE-2003,1
+719,SAS-2003,1
+720,LAC-2003,1
+721,WAS-2003,1
+722,PHO-2003,1
+723,LAL-2003,1
+724,PHI-2003,1
+725,HOU-2003,1
+726,NJN-2003,1
+727,MIN-2003,1
+728,ATL-2004,1
+729,POR-2004,1
+730,MIA-2004,1
+731,SEA-2004,1
+732,DEN-2004,1
+733,IND-2004,1
+734,NYK-2004,1
+735,WAS-2004,1
+736,NOH-2004,1
+737,UTA-2004,1
+738,DET-2004,1
+739,BOS-2004,1
+740,PHO-2004,1
+741,LAC-2004,1
+742,CLE-2004,1
+743,MEM-2004,1
+744,CHI-2004,1
+745,TOR-2004,1
+746,DAL-2004,1
+747,SAC-2004,1
+748,ORL-2004,1
+749,SAS-2004,1
+750,GSW-2004,1
+751,LAL-2004,1
+752,PHI-2004,1
+753,MIN-2004,1
+754,HOU-2004,1
+755,NJN-2004,1
+756,MIL-2004,1
+757,POR-2005,1
+758,CHA-2005,1
+759,MIA-2005,1
+760,SEA-2005,1
+761,BOS-2005,1
+762,TOR-2005,1
+763,NOH-2005,1
+764,ATL-2005,1
+765,LAC-2005,1
+766,NYK-2005,1
+767,DEN-2005,1
+768,WAS-2005,1
+769,DAL-2005,1
+770,UTA-2005,1
+771,DET-2005,1
+772,LAL-2005,1
+773,ORL-2005,1
+774,HOU-2005,1
+775,PHO-2005,1
+776,SAC-2005,1
+777,SAS-2005,1
+778,MEM-2005,1
+779,IND-2005,1
+780,NJN-2005,1
+781,GSW-2005,1
+782,MIL-2005,1
+783,PHI-2005,1
+784,MIN-2005,1
+785,CHI-2005,1
+786,CLE-2005,1
+787,SAC-2006,1
+788,CHI-2006,1
+789,SEA-2006,1
+790,BOS-2006,1
+791,HOU-2006,1
+792,NOK-2006,1
+793,CHA-2006,1
+794,MIA-2006,1
+795,DEN-2006,1
+796,TOR-2006,1
+797,WAS-2006,1
+798,NYK-2006,1
+799,ORL-2006,1
+800,DAL-2006,1
+801,DET-2006,1
+802,MEM-2006,1
+803,LAC-2006,1
+804,MIN-2006,1
+805,PHO-2006,1
+806,PHI-2006,1
+807,SAS-2006,1
+808,MIL-2006,1
+809,IND-2006,1
+810,GSW-2006,1
+811,POR-2006,1
+812,UTA-2006,1
+813,LAL-2006,1
+814,NJN-2006,1
+815,ATL-2006,1
+816,CLE-2006,1
+817,SAC-2007,1
+818,POR-2007,1
+819,CHI-2007,1
+820,SEA-2007,1
+821,BOS-2007,1
+822,HOU-2007,1
+823,UTA-2007,1
+824,PHI-2007,1
+825,CHA-2007,1
+826,DEN-2007,1
+827,WAS-2007,1
+828,ORL-2007,1
+829,IND-2007,1
+830,NOK-2007,1
+831,MEM-2007,1
+832,GSW-2007,1
+833,NYK-2007,1
+834,PHO-2007,1
+835,DAL-2007,1
+836,TOR-2007,1
+837,MIA-2007,1
+838,SAS-2007,1
+839,MIL-2007,1
+840,DET-2007,1
+841,MIN-2007,1
+842,NJN-2007,1
+843,LAC-2007,1
+844,LAL-2007,1
+845,CLE-2007,1
+846,ATL-2007,1
+847,SAC-2008,1
+848,DET-2008,1
+849,POR-2008,1
+850,NJN-2008,1
+851,DAL-2008,1
+852,BOS-2008,1
+853,HOU-2008,1
+854,PHI-2008,1
+855,NOH-2008,1
+856,CHA-2008,1
+857,DEN-2008,1
+858,MIA-2008,1
+859,WAS-2008,1
+860,ORL-2008,1
+861,LAL-2008,1
+862,GSW-2008,1
+863,NYK-2008,1
+864,PHO-2008,1
+865,TOR-2008,1
+866,SAS-2008,1
+867,MIL-2008,1
+868,ATL-2008,1
+869,UTA-2008,1
+870,LAC-2008,1
+871,MIN-2008,1
+872,CLE-2008,1
+873,MEM-2008,1
+874,CHI-2008,1
+875,SEA-2008,1
+876,IND-2008,1
+877,DET-2009,1
+878,CHA-2009,1
+879,POR-2009,1
+880,MIL-2009,1
+881,BOS-2009,1
+882,HOU-2009,1
+883,ORL-2009,1
+884,PHO-2009,1
+885,DEN-2009,1
+886,NJN-2009,1
+887,MIA-2009,1
+888,WAS-2009,1
+889,LAL-2009,1
+890,NOH-2009,1
+891,MEM-2009,1
+892,OKC-2009,1
+893,GSW-2009,1
+894,TOR-2009,1
+895,DAL-2009,1
+896,ATL-2009,1
+897,SAS-2009,1
+898,MIN-2009,1
+899,SAC-2009,1
+900,UTA-2009,1
+901,PHI-2009,1
+902,LAC-2009,1
+903,NYK-2009,1
+904,IND-2009,1
+905,CHI-2009,1
+906,CLE-2009,1
+907,DEN-2010,1
+908,CHA-2010,1
+909,POR-2010,1
+910,BOS-2010,1
+911,NJN-2010,1
+912,MIA-2010,1
+913,PHO-2010,1
+914,HOU-2010,1
+915,ORL-2010,1
+916,WAS-2010,1
+917,NOH-2010,1
+918,SAC-2010,1
+919,MEM-2010,1
+920,DET-2010,1
+921,GSW-2010,1
+922,TOR-2010,1
+923,DAL-2010,1
+924,NYK-2010,1
+925,MIL-2010,1
+926,ATL-2010,1
+927,SAS-2010,1
+928,LAC-2010,1
+929,UTA-2010,1
+930,OKC-2010,1
+931,PHI-2010,1
+932,MIN-2010,1
+933,CHI-2010,1
+934,LAL-2010,1
+935,IND-2010,1
+936,CLE-2010,1
+937,GSW-2011,1
+938,DEN-2011,1
+939,DAL-2011,1
+940,TOR-2011,1
+941,OKC-2011,1
+942,POR-2011,1
+943,ORL-2011,1
+944,BOS-2011,1
+945,MEM-2011,1
+946,LAC-2011,1
+947,NOH-2011,1
+948,SAS-2011,1
+949,NYK-2011,1
+950,MIA-2011,1
+951,WAS-2011,1
+952,ATL-2011,1
+953,CHI-2011,1
+954,CHA-2011,1
+955,LAL-2011,1
+956,PHO-2011,1
+957,MIL-2011,1
+958,PHI-2011,1
+959,HOU-2011,1
+960,MIN-2011,1
+961,UTA-2011,1
+962,DET-2011,1
+963,SAC-2011,1
+964,IND-2011,1
+965,CLE-2011,1
+966,NJN-2011,1
+967,HOU-2012,1
+968,DEN-2012,1
+969,OKC-2012,1
+970,POR-2012,1
+971,PHI-2012,1
+972,BOS-2012,1
+973,MEM-2012,1
+974,NOH-2012,1
+975,IND-2012,1
+976,TOR-2012,1
+977,SAS-2012,1
+978,ORL-2012,1
+979,NYK-2012,1
+980,MIA-2012,1
+981,CHI-2012,1
+982,CHA-2012,1
+983,DAL-2012,1
+984,MIN-2012,1
+985,LAL-2012,1
+986,GSW-2012,1
+987,UTA-2012,1
+988,LAC-2012,1
+989,WAS-2012,1
+990,NJN-2012,1
+991,MIL-2012,1
+992,PHO-2012,1
+993,DET-2012,1
+994,CLE-2012,1
+995,ATL-2012,1
+996,SAC-2012,1
+997,TOR-2013,1
+998,CHA-2013,1
+999,ORL-2013,1
+1000,HOU-2013,1
+1001,SAC-2013,1
+1002,POR-2013,1
+1003,PHI-2013,1
+1004,MIA-2013,1
+1005,MEM-2013,1
+1006,NOH-2013,1
+1007,MIN-2013,1
+1008,CHI-2013,1
+1009,SAS-2013,1
+1010,NYK-2013,1
+1011,WAS-2013,1
+1012,IND-2013,1
+1013,MIL-2013,1
+1014,BOS-2013,1
+1015,GSW-2013,1
+1016,LAC-2013,1
+1017,PHO-2013,1
+1018,DAL-2013,1
+1019,LAL-2013,1
+1020,BRK-2013,1
+1021,DEN-2013,1
+1022,OKC-2013,1
+1023,UTA-2013,1
+1024,DET-2013,1
+1025,CLE-2013,1
+1026,ATL-2013,1
+1027,TOR-2014,1
+1028,SAC-2014,1
+1029,OKC-2014,1
+1030,CHA-2014,1
+1031,MIL-2014,1
+1032,ORL-2014,1
+1033,NOP-2014,1
+1034,NYK-2014,1
+1035,POR-2014,1
+1036,PHI-2014,1
+1037,IND-2014,1
+1038,MIA-2014,1
+1039,MEM-2014,1
+1040,CHI-2014,1
+1041,BRK-2014,1
+1042,BOS-2014,1
+1043,ATL-2014,1
+1044,WAS-2014,1
+1045,GSW-2014,1
+1046,DEN-2014,1
+1047,HOU-2014,1
+1048,SAS-2014,1
+1049,PHO-2014,1
+1050,MIN-2014,1
+1051,LAC-2014,1
+1052,LAL-2014,1
+1053,CLE-2014,1
+1054,UTA-2014,1
+1055,DET-2014,1
+1056,DAL-2014,1
+1057,NYK-2015,1
+1058,OKC-2015,1
+1059,MIN-2015,1
+1060,DEN-2015,1
+1061,POR-2015,1
+1062,NOP-2015,1
+1063,IND-2015,1
+1064,MEM-2015,1
+1065,DAL-2015,1
+1066,CLE-2015,1
+1067,MIA-2015,1
+1068,BRK-2015,1
+1069,SAS-2015,1
+1070,MIL-2015,1
+1071,DET-2015,1
+1072,ATL-2015,1
+1073,HOU-2015,1
+1074,GSW-2015,1
+1075,LAC-2015,1
+1076,PHO-2015,1
+1077,BOS-2015,1
+1078,WAS-2015,1
+1079,CHO-2015,1
+1080,LAL-2015,1
+1081,UTA-2015,1
+1082,CHI-2015,1
+1083,PHI-2015,1
+1084,SAC-2015,1
+1085,ORL-2015,1
+1086,TOR-2015,1
+1087,SAC-2016,1
+1088,OKC-2016,1
+1089,NYK-2016,1
+1090,NOP-2016,1
+1091,LAC-2016,1
+1092,SAS-2016,1
+1093,IND-2016,1
+1094,MEM-2016,1
+1095,POR-2016,1
+1096,MIA-2016,1
+1097,WAS-2016,1
+1098,DAL-2016,1
+1099,MIL-2016,1
+1100,DET-2016,1
+1101,HOU-2016,1
+1102,DEN-2016,1
+1103,GSW-2016,1
+1104,BRK-2016,1
+1105,LAL-2016,1
+1106,CHO-2016,1
+1107,ATL-2016,1
+1108,TOR-2016,1
+1109,MIN-2016,1
+1110,PHO-2016,1
+1111,UTA-2016,1
+1112,BOS-2016,1
+1113,PHI-2016,1
+1114,CHI-2016,1
+1115,ORL-2016,1
+1116,CLE-2016,1
+1117,OKC-2017,1
+1118,DAL-2017,1
+1119,BRK-2017,1
+1120,SAC-2017,1
+1121,NOP-2017,1
+1122,MIN-2017,1
+1123,SAS-2017,1
+1124,IND-2017,1
+1125,MEM-2017,1
+1126,POR-2017,1
+1127,CLE-2017,1
+1128,LAC-2017,1
+1129,PHI-2017,1
+1130,HOU-2017,1
+1131,MIL-2017,1
+1132,NYK-2017,1
+1133,DEN-2017,1
+1134,ORL-2017,1
+1135,MIA-2017,1
+1136,PHO-2017,1
+1137,GSW-2017,1
+1138,CHO-2017,1
+1139,DET-2017,1
+1140,ATL-2017,1
+1141,WAS-2017,1
+1142,LAL-2017,1
+1143,BOS-2017,1
+1144,UTA-2017,1
+1145,CHI-2017,1
+1146,TOR-2017,1
+1146,Zaid Abdul-Aziz,2
+1147,Kareem Abdul-Jabbar*,2
+1148,Don Adams,2
+1149,Rick Adelman,2
+1150,Lucius Allen,2
+1151,Dan Anderson,2
+1152,Tiny Archibald*,2
+1153,Jim Ard,2
+1154,Dennis Awtrey,2
+1155,Gus Bailey,2
+1156,Mike Bantom,2
+1157,Jim Barnett,2
+1158,Rick Barry*,2
+1159,Butch Beard,2
+1160,Zelmo Beaty*,2
+1161,Ron Behagen,2
+1164,Leon Benbow,2
+1165,Henry Bibby,2
+1166,Dave Bing*,2
+1168,Tom Boerwinkle,2
+1169,Freddie Boyd,2
+1172,Bill Bradley*,2
+1173,Jim Brewer,2
+1176,Allan Bristow,2
+1177,Gary Brokaw,2
+1178,Fred Brown,2
+1179,John Brown,2
+1180,Tom Burleson,2
+1181,Corky Calhoun,2
+1182,Austin Carr,2
+1183,Fred Carter,2
+1184,Harvey Catchings,2
+1185,Don Chaney,2
+1186,Ken Charles,2
+1187,Phil Chenier,2
+1188,Jim Chones,2
+1189,Archie Clark,2
+1190,Jim Cleamons,2
+1191,Barry Clemens,2
+1193,E.C. Coleman,2
+1194,Doug Collins,2
+1195,Mel Counts,2
+1196,Dave Cowens*,2
+1197,Billy Cunningham*,2
+1200,Bob Dandridge,2
+1202,Dwight Davis,2
+1203,Jim Davis,2
+1204,Mel Davis,2
+1205,Mickey Davis,2
+1206,Rod Derline,2
+1207,Derrek Dickey,2
+1208,Ernie DiGregorio,2
+1210,John Drew,2
+1212,Charles Dudley,2
+1215,Al Eberhard,2
+1216,Leroy Ellis,2
+1217,Keith Erickson,2
+1219,Chris Ford,2
+1220,Fred Foster,2
+1221,Jim Fox,2
+1222,Walt Frazier*,2
+1224,Rowland Garrett,2
+1225,John Gianelli,2
+1226,Dick Gibbs,2
+1227,Herm Gilliam,2
+1228,Gail Goodrich*,2
+1229,Leonard Gray,2
+1231,Matt Guokas,2
+1232,Happy Hairston,2
+1235,Clem Haskins,2
+1236,John Havlicek*,2
+1237,Steve Hawes,2
+1238,Connie Hawkins*,2
+1239,Nate Hawthorne,2
+1240,Elvin Hayes*,2
+1241,Spencer Haywood*,2
+1242,Gar Heard,2
+1243,Tom Henderson,2
+1245,Lou Hudson,2
+1248,Phil Jackson*,2
+1250,Aaron James,2
+1251,Charles Johnson,2
+1252,George Johnson,2
+1253,John Johnson,2
+1254,Mickey Johnson,2
+1255,Ollie Johnson,2
+1256,Dwight Jones,2
+1257,Jimmy Jones,2
+1263,Tom Kozelko,2
+1264,Steve Kuberski,2
+1265,Kevin Kunnert,2
+1266,Sam Lacey,2
+1267,Bob Lanier*,2
+1268,Stu Lantz,2
+1269,Clyde Lee,2
+1272,Bob Love,2
+1274,Phil Lumpkin,2
+1275,Pete Maravich*,2
+1276,Jack Marin,2
+1277,LaRue Martin,2
+1279,Bob McAdoo*,2
+1280,Glenn McDonald,2
+1281,Jon McGlocklin,2
+1283,Jim McMillian,2
+1284,Larry McNeill,2
+1285,Cliff Meely,2
+1286,Gary Melchionni,2
+1287,Dean Meminger,2
+1288,John Mengelt,2
+1289,Steve Mix,2
+1290,Eric Money,2
+1291,Earl Monroe*,2
+1292,Otto Moore,2
+1293,Jeff Mullins,2
+1294,Calvin Murphy*,2
+1295,Lloyd Neal,2
+1296,Don Nelson*,2
+1297,Louie Nelson,2
+1298,Mike Newlin,2
+1299,Connie Norman,2
+1300,Willie Norwood,2
+1302,Steve Patterson,2
+1303,Curtis Perry,2
+1304,Geoff Petrie,2
+1305,Howard Porter,2
+1306,Kevin Porter,2
+1307,Jim Price,2
+1308,Ed Ratleff,2
+1309,Clifford Ray,2
+1310,Kevin Restani,2
+1312,Pat Riley*,2
+1313,Ron Riley,2
+1314,Mike Riordan,2
+1315,Rick Roberson,2
+1316,Truck Robinson,2
+1317,Curtis Rowe,2
+1320,Campy Russell,2
+1321,Cazzie Russell,2
+1322,Fred Saunders,2
+1323,Dale Schlueter,2
+1324,Charlie Scott,2
+1325,Paul Silas,2
+1326,Tal Skinner,2
+1327,Jerry Sloan*,2
+1328,Bingo Smith,2
+1330,Elmore Smith,2
+1331,Greg Smith,2
+1332,Phil Smith,2
+1333,Randy Smith,2
+1334,Dick Snyder,2
+1335,Mike Sojourner,2
+1336,Kevin Stacom,2
+1337,Bud Stallworth,2
+1339,Larry Steele,2
+1340,George Thompson,2
+1341,Nate Thurmond*,2
+1343,Rudy Tomjanovich,2
+1344,George Trapp,2
+1346,Wes Unseld*,2
+1347,Dick Van,2
+1348,Tom Van,2
+1349,Norm Van,2
+1350,Neal Walk,2
+1351,Chet Walker*,2
+1352,Foots Walker,2
+1353,Jimmy Walker,2
+1354,Bill Walton*,2
+1356,Cornell Warner,2
+1357,Jim Washington,2
+1358,Kermit Washington,2
+1360,Slick Watts,2
+1361,Nick Weatherspoon,2
+1362,Scott Wedman,2
+1363,Bob Weiss,2
+1366,Paul Westphal,2
+1367,John Wetzel,2
+1368,Jo Jo,2
+1369,Sidney Wicks,2
+1370,Lenny Wilkens*,2
+1371,Jamaal Wilkes*,2
+1372,Earl Williams,2
+1373,Nate Williams,2
+1375,Bobby Wilson,2
+1376,Lee Winfield,2
+1377,Harthorne Wingo,2
+1378,Brian Winters,2
+1380,Dave Wohl,2
+1381,Alvan Adams,2
+1385,Tom Boswell,2
+1386,Junior Bridgeman,2
+1388,Joe Bryant,2
+1391,Darryl Dawkins,2
+1393,Eric Fernsten,2
+1395,Don Ford,2
+1396,World B.,2
+1397,Donnie Freeman,2
+1398,Kevin Grevey,2
+1399,Bob Gross,2
+1401,Glenn Hansen,2
+1402,Robert Hawkins,2
+1403,Wilbur Holland,2
+1404,Lionel Hollins,2
+1407,Rich Kelley,2
+1409,C.J. Kupec,2
+1410,John Lambert,2
+1411,John Laskowski,2
+1413,Clyde Mayes,2
+1416,Jim McElroy,2
+1417,George McGinnis,2
+1418,Tom McMillen,2
+1419,Joe Meriweather,2
+1420,Dave Meyers,2
+1421,Frank Oleynick,2
+1422,Cliff Pondexter,2
+1423,Bill Robinzine,2
+1424,John Roche,2
+1425,Bruce Seals,2
+1428,John Shumate,2
+1429,Ricky Sobers,2
+1431,Rudy White,2
+1432,Gus Williams,2
+1433,Bill Willoughby,2
+1434,Tom Abernethy,2
+1435,Bird Averitt,2
+1436,Tom Barker,2
+1437,Marvin Barnes,2
+1439,Mike Barr,2
+1440,Tim Bassett,2
+1442,Mel Bennett,2
+1443,Ron Boone,2
+1444,Quinn Buckner,2
+1446,Don Buse,2
+1447,Mack Calvin,2
+1448,M.L. Carr,2
+1451,Louie Dampier*,2
+1453,Adrian Dantley*,2
+1454,Johnny Davis,2
+1457,Coby Dietrick,2
+1458,Leon Douglas,2
+1459,Mike Dunleavy,2
+1460,Jim Eakins,2
+1461,Len Elmore,2
+1463,Alex English*,2
+1464,Julius Erving*,2
+1466,Mike Flynn,2
+1467,Terry Furlow,2
+1468,Mike Gale,2
+1469,Gus Gerard,2
+1470,George Gervin*,2
+1471,Artis Gilmore*,2
+1472,Mike Green,2
+1473,Steve Green,2
+1474,Paul Griffin,2
+1477,Armond Hill,2
+1478,Darnell Hillman,2
+1480,Kim Hughes,2
+1481,Dan Issel*,2
+1482,Dennis Johnson*,2
+1483,Bobby Jones,2
+1484,Caldwell Jones,2
+1486,Robin Jones,2
+1487,Wil Jones,2
+1490,Larry Kenon,2
+1491,Billy Knight,2
+1492,Mitch Kupchak,2
+1493,Bo Lamar,2
+1494,Mo Layton,2
+1495,Ron Lee,2
+1497,Scott Lloyd,2
+1498,John Lucas,2
+1499,Maurice Lucas,2
+1500,Moses Malone*,2
+1501,Scott May,2
+1502,Andre McCarter,2
+1503,Ted McClain,2
+1506,Swen Nater,2
+1507,Johnny Neumann,2
+1508,Mark Olberding,2
+1509,Tom Owens,2
+1511,Robert Parish*,2
+1512,Sonny Parker,2
+1513,Billy Paultz,2
+1515,Dave Robisch,2
+1517,Dan Roundfield,2
+1519,Lonnie Shelton,2
+1520,James Silas,2
+1521,Ralph Simpson,2
+1522,Al Skinner,2
+1523,Willie Smith,2
+1525,Earl Tatum,2
+1526,Brian Taylor,2
+1527,Fatty Taylor,2
+1528,Ira Terrell,2
+1529,Chuck Terry,2
+1531,David Thompson*,2
+1533,Dave Twardzik,2
+1534,Jan Van,2
+1536,Wally Walker,2
+1537,Lloyd Walton,2
+1539,Richard Washington,2
+1540,Marvin Webster,2
+1541,Bob Wilkerson,2
+1542,Chuck Williams,2
+1544,John Williamson,2
+1545,Willie Wise,2
+1546,Larry Wright,2
+1548,Greg Ballard,2
+1549,Kent Benson,2
+1550,Otis Birdsong,2
+1553,Alonzo Bradley,2
+1554,Mike Bratz,2
+1556,Kenny Carr,2
+1557,Bob Carrington,2
+1559,Charlie Criss,2
+1561,Brad Davis,2
+1562,Walter Davis,2
+1564,T.R. Dunn,2
+1565,James Edwards,2
+1566,Bo Ellis,2
+1568,Bayard Forrest,2
+1569,Mike Glenn,2
+1570,Glen Gondrezick,2
+1571,Rickey Green,2
+1573,Ernie Grunfeld,2
+1574,Joe Hassett,2
+1575,Eddie Johnson,2
+1576,Larry Johnson,2
+1577,Marques Johnson,2
+1578,Eddie Jordan,2
+1579,Bernard King*,2
+1580,Toby Knight,2
+1581,John Kuester,2
+1582,Tom LaGarde,2
+1583,Mark Landsberger,2
+1586,Cedric Maxwell,2
+1589,Bob Nash,2
+1590,Norm Nixon,2
+1592,Ben Poquette,2
+1593,Robert Reid,2
+1594,Anthony Roberts,2
+1595,Tony Robertson,2
+1596,Tree Rollins,2
+1597,Alvin Scott,2
+1599,Jack Sikma,2
+1601,Robert Smith,2
+1603,Wilson Washington,2
+1604,Ray Williams,2
+1608,Winford Boynes,2
+1609,Ron Brewer,2
+1611,Marty Byrnes,2
+1613,Maurice Cheeks,2
+1614,Michael Cooper,2
+1615,Wayne Cooper,2
+1616,Dave Corzine,2
+1619,Bob Elliott,2
+1621,Phil Ford,2
+1622,Jack Givens,2
+1625,James Hardy,2
+1626,Keith Herron,2
+1627,Kenny Higgs,2
+1630,Clemon Johnson,2
+1631,Jeff Judkins,2
+1632,Joel Kramer,2
+1633,Butch Lee,2
+1634,John Long,2
+1635,Billy McKinney,2
+1636,Mike Mitchell,2
+1638,Roger Phegley,2
+1639,Stan Pietkiewicz,2
+1641,Marlon Redmond,2
+1642,Micheal Ray,2
+1643,Rick Robey,2
+1647,Purvis Short,2
+1649,Reggie Theus,2
+1650,Mychal Thompson,2
+1651,Raymond Townsend,2
+1652,Terry Tyler,2
+1654,Jerome Whitehead,2
+1655,Freeman Williams,2
+1657,James Bailey,2
+1658,Billy Ray,2
+1659,Larry Bird*,2
+1661,Dudley Bradley,2
+1662,Bill Cartwright,2
+1663,Jeff Cook,2
+1664,Hollis Copeland,2
+1667,Pat Cummings,2
+1670,Larry Demic,2
+1671,Terry Duerod,2
+1673,Mike Evans,2
+1674,Gary Garland,2
+1675,Dave Greenwood,2
+1676,Roy Hamilton,2
+1677,Gerald Henderson,2
+1678,Johnny High,2
+1680,Phil Hubbard,2
+1681,Geoff Huston,2
+1682,Abdul Jeelani,2
+1684,Magic Johnson*,2
+1685,Vinnie Johnson,2
+1686,Major Jones,2
+1687,Greg Kelser,2
+1690,Reggie King,2
+1692,Allen Leavell,2
+1693,Ollie Mack,2
+1695,Paul Mokeski,2
+1696,Sidney Moncrief,2
+1697,Calvin Natt,2
+1699,Jim Paxson,2
+1701,Sam Pellom,2
+1702,Clint Richardson,2
+1703,Cliff Robinson,2
+1704,Jim Spanarkel,2
+1706,Duck Williams,2
+1707,Sly Williams,2
+1713,Michael Brooks,2
+1715,Rickey Brown,2
+1716,Joe Barry,2
+1717,Butch Carter,2
+1718,Reggie Carter,2
+1720,Don Collins,2
+1721,Darwin Cook,2
+1722,Earl Cureton,2
+1724,James Donaldson,2
+1725,Larry Drew,2
+1727,John Duren,2
+1729,Calvin Garrett,2
+1730,Mike Gminski,2
+1731,Darrell Griffith,2
+1732,Bill Hanzlik,2
+1734,Mike Harper,2
+1735,Cedrick Hordges,2
+1738,Reggie Johnson,2
+1739,Edgar Jones,2
+1744,Bill Laimbeer,2
+1746,Ronnie Lester,2
+1747,Kyle Macy,2
+1748,Rick Mahorn,2
+1749,Wes Matthews,2
+1752,Kevin McHale*,2
+1754,Johnny Moore,2
+1755,Lowes Moore,2
+1757,Carl Nicks,2
+1759,Mike O'Koren,2
+1760,Jawann Oldham,2
+1761,Louis Orr,2
+1765,Kelvin Ransey,2
+1768,Wayne Robinson,2
+1769,Lorenzo Romar,2
+1772,Jerry Sichting,2
+1773,Larry Smith,2
+1774,Rory Sparrow,2
+1776,Carlos Terry,2
+1777,Andrew Toney,2
+1779,Kiki Vandeweghe,2
+1781,Hawkeye Whitney,2
+1782,Michael Wiley,2
+1783,James Wilkes,2
+1784,Jeff Wilkins,2
+1785,Mike Woodson,2
+1787,Mark Aguirre,2
+1788,Danny Ainge,2
+1790,Gene Banks,2
+1791,Rolando Blackman,2
+1796,Jim Brogan,2
+1800,Tom Chambers,2
+1802,Charles Davis,2
+1803,Kenny Dennard,2
+1805,John Douglas,2
+1807,Franklin Edwards,2
+1808,Petur Gudmundsson,2
+1810,Steve Hayes,2
+1811,Tracy Jackson,2
+1813,Frank Johnson,2
+1814,Steve Johnson,2
+1815,Albert King,2
+1816,Jeff Lamp,2
+1818,Alton Lister,2
+1819,Lewis Lloyd,2
+1820,Kevin Loder,2
+1821,Rudy Macklin,2
+1823,Hank McDowell,2
+1824,Mike McGee,2
+1825,Kevin McKenna,2
+1826,Larry Nance,2
+1827,Kurt Nimphius,2
+1830,Kurt Rambis,2
+1831,Jeff Ruland,2
+1832,Danny Schayes,2
+1834,Larry Spriggs,2
+1835,Isiah Thomas*,2
+1836,Ray Tolbert,2
+1837,Kelly Tripucka,2
+1838,Elston Turner,2
+1839,Darnell Valentine,2
+1840,Pete Verhoeven,2
+1841,Jay Vincent,2
+1842,Danny Vranes,2
+1843,Buck Williams,2
+1844,Herb Williams,2
+1845,Sam Williams,2
+1847,Al Wood,2
+1849,Orlando Woolridge,2
+1852,J.J. Anderson,2
+1853,Richard Anderson,2
+1854,John Bagley,2
+1856,Lester Conner,2
+1858,Terry Cummings,2
+1859,Quintin Dailey,2
+1861,Mark Eaton,2
+1862,Jerry Eaves,2
+1864,Chris Engler,2
+1866,Sleepy Floyd,2
+1867,Bill Garnett,2
+1869,Scott Hastings,2
+1870,Rod Higgins,2
+1871,Craig Hodges,2
+1872,Marc Iavaroni,2
+1875,Clark Kellogg,2
+1876,Joe Kopicki,2
+1877,Fat Lever,2
+1878,Cliff Levingston,2
+1881,Mark McNamara,2
+1883,Ed Nealy,2
+1885,Audie Norris,2
+1887,Ricky Pierce,2
+1888,Charles Pittman,2
+1889,Paul Pressey,2
+1891,Walker Russell,2
+1892,Mike Sanders,2
+1893,Russ Schoene,2
+1894,Ed Sherod,2
+1896,Derek Smith,2
+1897,Brook Steppe,2
+1900,Terry Teagle,2
+1901,David Thirdkill,2
+1903,LaSalle Thompson,2
+1904,Darren Tillis,2
+1906,Trent Tucker,2
+1907,Bryan Warrick,2
+1908,Rory White,2
+1909,Dominique Wilkins*,2
+1911,Rob Williams,2
+1912,James Worthy*,2
+1915,Thurl Bailey,2
+1916,Randy Breuer,2
+1917,Wallace Bryant,2
+1922,Darren Daye,2
+1923,Clyde Drexler*,2
+1924,Craig Ehlo,2
+1925,Dale Ellis,2
+1926,Rod Foster,2
+1930,Sidney Green,2
+1931,Bob Hansen,2
+1932,Derek Harper,2
+1933,Roy Hinson,2
+1934,Charles Jones,2
+1936,Greg Kite,2
+1939,Sidney Lowe,2
+1940,Jeff Malone,2
+1941,Pace Mannion,2
+1942,Rodney McCray,2
+1946,John Paxson,2
+1950,Doc Rivers,2
+1951,Fred Roberts,2
+1952,Ralph Sampson*,2
+1953,Byron Scott,2
+1954,Steve Stipanovich,2
+1955,Jon Sundvold,2
+1957,Jim Thomas,2
+1958,Paul Thompson,2
+1959,Sedale Threatt,2
+1960,Granville Waiters,2
+1961,Darrell Walker,2
+1963,Mark West,2
+1964,Ennis Whatley,2
+1965,Mitchell Wiggins,2
+1966,Kevin Williams,2
+1968,Randy Wittman,2
+1969,Chuck Aleksinas,2
+1970,Ron Anderson,2
+1971,Ken Bannister,2
+1972,Charles Barkley*,2
+1974,Sam Bowie,2
+1975,Frank Brickowski,2
+1976,Tony Brown,2
+1977,Steve Burtt,2
+1978,Michael Cage,2
+1979,Tony Campbell,2
+1980,Rick Carlisle,2
+1981,Antoine Carr,2
+1983,Steve Colter,2
+1986,Kenny Fields,2
+1987,Vern Fleming,2
+1988,Lancaster Gordon,2
+1990,Stuart Gray,2
+1991,Mike Holton,2
+1992,Jay Humphries,2
+1996,Michael Jordan*,2
+1997,Jerome Kersey,2
+1998,Tim McCormick,2
+2000,Hakeem Olajuwon*,2
+2001,Sam Perkins,2
+2002,Jim Petersen,2
+2003,Gary Plummer,2
+2005,Alvin Robertson,2
+2012,Terence Stansbury,2
+2013,John Stockton*,2
+2015,Bernard Thompson,2
+2016,Otis Thorpe,2
+2017,Jeff Turner,2
+2018,Melvin Turpin,2
+2020,Eddie Lee,2
+2023,Kevin Willis,2
+2024,Othell Wilson,2
+2025,Leon Wood,2
+2026,Danny Young,2
+2028,Michael Adams,2
+2029,John Battle,2
+2030,Benoit Benjamin,2
+2031,Uwe Blab,2
+2032,Manute Bol,2
+2034,Terry Catledge,2
+2038,Tyrone Corbin,2
+2041,Joe Dumars*,2
+2042,Patrick Ewing*,2
+2044,A.C. Green,2
+2048,Steve Harris,2
+2055,Joe Kleine,2
+2056,Jon Koncak,2
+2057,Keith Lee,2
+2058,Karl Malone*,2
+2062,Xavier McDaniel,2
+2063,Ben McDonald,2
+2064,Chris McNealy,2
+2065,Dirk Minniefield,2
+2066,Perry Moss,2
+2067,Chris Mullin*,2
+2068,Charles Oakley,2
+2069,Michael Phelps,2
+2070,Ed Pinckney,2
+2071,Terry Porter,2
+2072,Blair Rasmussen,2
+2073,Jerry Reynolds,2
+2075,Detlef Schrempf,2
+2076,Carey Scurry,2
+2077,Mike Smrek,2
+2080,Bob Thornton,2
+2081,Wayman Tisdale,2
+2082,Sedric Toney,2
+2084,Sam Vincent,2
+2085,Spud Webb,2
+2086,Bill Wennington,2
+2087,Gerald Wilkins,2
+2090,Rafael Addison,2
+2091,Mark Alarie,2
+2092,William Bedford,2
+2093,Walter Berry,2
+2095,Adrian Branch,2
+2096,Mike Brown,2
+2097,Ben Coleman,2
+2098,Dell Curry,2
+2099,Brad Daugherty,2
+2100,Johnny Dawkins,2
+2102,Greg Dreiling,2
+2103,Kevin Duckworth,2
+2104,Dave Feitl,2
+2105,Kenny Gattison,2
+2106,Grant Gondrezick,2
+2107,Ron Harper,2
+2108,Cedric Henderson,2
+2111,Jeff Hornacek,2
+2113,Buck Johnson,2
+2115,Anthony Jones,2
+2116,Tim Kempton,2
+2118,Larry Krystkowiak,2
+2123,Nate McMillan,2
+2125,Pete Myers,2
+2126,Johnny Newman,2
+2128,Chuck Person,2
+2130,Harold Pressley,2
+2131,Mark Price,2
+2132,Dennis Rodman*,2
+2135,John Salley,2
+2136,Brad Sellers,2
+2138,Scott Skiles,2
+2141,Otis Smith,2
+2142,Roy Tarpley,2
+2143,Billy Thompson,2
+2144,Andre Turner,2
+2145,Kenny Walker,2
+2147,Pearl Washington,2
+2148,Hot Rod,2
+2149,John Williams,2
+2150,David Wingate,2
+2153,Mark Acres,2
+2154,Steve Alford,2
+2155,Greg Anderson,2
+2157,Vincent Askew,2
+2159,Muggsy Bogues,2
+2161,Dallas Comegys,2
+2164,Chris Dudley,2
+2165,Jim Farmer,2
+2166,Tellis Frank,2
+2167,Kevin Gamble,2
+2168,Winston Garland,2
+2169,Armen Gilliam,2
+2170,Horace Grant,2
+2172,Dave Hoppen,2
+2173,Dennis Hopson,2
+2174,Eddie Hughes,2
+2175,Mark Jackson,2
+2178,Kevin Johnson,2
+2181,Reggie Lewis,2
+2182,Brad Lohaus,2
+2183,Derrick McKey,2
+2184,Reggie Miller*,2
+2188,Tod Murphy,2
+2190,Ken Norman,2
+2191,Scottie Pippen*,2
+2192,Olden Polynice,2
+2194,Scott Roth,2
+2195,Brian Rowsom,2
+2196,Kenny Smith,2
+2202,Chris Welp,2
+2206,Reggie Williams,2
+2210,Joe Wolf,2
+2214,Willie Anderson,2
+2215,Ricky Berry,2
+2216,Anthony Bowie,2
+2217,Scott Brooks,2
+2218,Mark Bryant,2
+2221,Rex Chapman,2
+2222,Derrick Chievous,2
+2223,Mark Davis,2
+2224,Vinny Del,2
+2226,Ledell Eackles,2
+2227,Kevin Edwards,2
+2230,Duane Ferrell,2
+2231,Anthony Frederick,2
+2232,Corey Gaines,2
+2233,Tom Garrick,2
+2237,Gary Grant,2
+2238,Harvey Grant,2
+2239,Sylvester Gray,2
+2240,Jeff Grayer,2
+2241,Jack Haley,2
+2242,Hersey Hawkins,2
+2244,Avery Johnson,2
+2247,Steve Kerr,2
+2248,Randolph Keys,2
+2249,Jerome Lane,2
+2250,Andrew Lang,2
+2251,Eric Leckner,2
+2252,Jim Les,2
+2254,Grant Long,2
+2255,Dan Majerle,2
+2256,Danny Manning,2
+2257,Vernon Maxwell,2
+2259,Chris Morris,2
+2263,Will Perdue,2
+2264,Tim Perry,2
+2267,Mitch Richmond*,2
+2269,David Rivers,2
+2272,Rony Seikaly,2
+2273,Charles Shackleford,2
+2274,John Shasky,2
+2275,Brian Shaw,2
+2277,Charles Smith,2
+2278,Rik Smits,2
+2279,John Starks,2
+2281,Rod Strickland,2
+2284,Tom Tolbert,2
+2285,Kelvin Upshaw,2
+2286,Morlon Wiley,2
+2287,Micheal Williams,2
+2288,David Wood,2
+2289,Nick Anderson,2
+2290,Michael Ansley,2
+2291,B.J. Armstrong,2
+2292,Dana Barros,2
+2293,Kenny Battle,2
+2294,Winston Bennett,2
+2295,Mookie Blaylock,2
+2296,Chucky Brown,2
+2301,Adrian Caldwell,2
+2303,Terry Davis,2
+2305,Vlade Divac,2
+2306,Sherman Douglas,2
+2308,Blue Edwards,2
+2310,Sean Elliott,2
+2311,Pervis Ellison,2
+2312,Derrick Gervin,2
+2313,Greg Grant,2
+2315,Tom Hammonds,2
+2316,Tim Hardaway,2
+2320,Jaren Jackson,2
+2323,Shawn Kemp,2
+2325,Stacey King,2
+2328,Tim Legler,2
+2331,Todd Lichti,2
+2333,Sarunas Marciulionis*,2
+2334,Jeff Martin,2
+2335,Anthony Mason,2
+2336,Bob McCann,2
+2338,George McCloud,2
+2341,Sam Mitchell,2
+2343,John Morton,2
+2346,Kenny Payne,2
+2347,Drazen Petrovic*,2
+2348,Brian Quinnett,2
+2349,J.R. Reid,2
+2350,Glen Rice,2
+2351,Pooh Richardson,2
+2352,Clifford Robinson,2
+2353,David Robinson*,2
+2355,Donald Royal,2
+2356,Delaney Rudd,2
+2359,Michael Smith,2
+2364,Alexander Volkov,2
+2365,Doug West,2
+2366,Randy White,2
+2368,Haywoode Workman,2
+2369,Alaa Abdelnaby,2
+2370,Mahmoud Abdul-Rauf,2
+2371,Keith Askins,2
+2374,Lance Blanks,2
+2375,Anthony Bonner,2
+2376,Dee Brown,2
+2377,Jud Buechler,2
+2378,Matt Bullard,2
+2379,Willie Burton,2
+2381,Elden Campbell,2
+2382,Duane Causwell,2
+2383,Cedric Ceballos,2
+2385,Derrick Coleman,2
+2386,Bimbo Coles,2
+2387,Anthony Cook,2
+2389,Mario Elie,2
+2390,A.J. English,2
+2391,Danny Ferry,2
+2392,Greg Foster,2
+2393,Tate George,2
+2394,Kendall Gill,2
+2395,Gerald Glass,2
+2399,Steve Henson,2
+2400,Sean Higgins,2
+2401,Tyrone Hill,2
+2403,Henry James,2
+2405,Alec Kessler,2
+2406,Bo Kimble,2
+2407,Negele Knight,2
+2409,Marcus Liberty,2
+2411,Tony Massenburg,2
+2412,Travis Mays,2
+2413,Terry Mills,2
+2415,Jerrod Mustaf,2
+2418,Brian Oliver,2
+2419,Gerald Paddio,2
+2421,Gary Payton*,2
+2422,Kevin Pritchard,2
+2423,Larry Robinson,2
+2424,Rumeal Robinson,2
+2426,Dwayne Schintzius,2
+2427,Dennis Scott,2
+2428,Lionel Simmons,2
+2429,Tony Smith,2
+2430,Felton Spencer,2
+2433,Loy Vaught,2
+2434,Stojko Vrankovic,2
+2435,Jayson Williams,2
+2436,Kenny Williams,2
+2437,Scott Williams,2
+2438,Trevor Wilson,2
+2439,Kennard Winchester,2
+2442,Victor Alexander,2
+2443,Kenny Anderson,2
+2444,Greg Anthony,2
+2445,Stacey Augmon,2
+2446,Isaac Austin,2
+2448,David Benoit,2
+2449,Terrell Brandon,2
+2450,Kevin Brooks,2
+2452,Randy Brown,2
+2454,Pete Chilcutt,2
+2455,Marty Conlon,2
+2457,Chris Corchiani,2
+2459,Dale Davis,2
+2460,Bison Dele,2
+2463,Rick Fox,2
+2464,Chris Gatling,2
+2465,Paul Graham,2
+2467,Carl Herrera,2
+2468,Donald Hodge,2
+2469,Brian Howard,2
+2471,Mike Iuzzolino,2
+2474,Luc Longley,2
+2475,Kevin Lynch,2
+2476,Mark Macon,2
+2479,Tracy Moore,2
+2480,Eric Murdock,2
+2481,Dikembe Mutombo*,2
+2483,Billy Owens,2
+2485,Robert Pack,2
+2486,Elliot Perry,2
+2487,Bobby Phills,2
+2489,Stanley Roberts,2
+2490,Doug Smith,2
+2491,LaBradford Smith,2
+2492,Steve Smith,2
+2493,Larry Stewart,2
+2494,Derek Strong,2
+2496,Greg Sutton,2
+2503,Anthony Avent,2
+2504,Jon Barry,2
+2505,Tony Bennett,2
+2508,Walter Bond,2
+2510,Doug Christie,2
+2513,John Crotty,2
+2515,Lloyd Daniels,2
+2516,Hubert Davis,2
+2517,Todd Day,2
+2518,Richard Dumas,2
+2520,LaPhonso Ellis,2
+2521,Matt Geiger,2
+2522,Litterial Green,2
+2523,Tom Gugliotta,2
+2525,Robert Horry,2
+2526,Byron Houston,2
+2528,Jim Jackson,2
+2529,Keith Jennings,2
+2532,Adam Keefe,2
+2533,Christian Laettner,2
+2534,Sam Mack,2
+2535,Don MacLean,2
+2536,Marlon Maxey,2
+2537,Lee Mayberry,2
+2538,Oliver Miller,2
+2539,Harold Miner,2
+2541,Alonzo Mourning*,2
+2542,Tracy Murray,2
+2544,Shaquille O'Neal*,2
+2546,Doug Overton,2
+2547,Anthony Peeler,2
+2548,Brent Price,2
+2550,Sean Rooks,2
+2551,Malik Sealy,2
+2552,Chris Smith,2
+2555,Elmore Spencer,2
+2556,Latrell Sprewell,2
+2558,Bryant Stith,2
+2560,Clarence Weatherspoon,2
+2564,Lorenzo Williams,2
+2565,Walt Williams,2
+2566,Randy Woods,2
+2568,Vin Baker,2
+2569,Corie Blount,2
+2570,Shawn Bradley,2
+2571,P.J. Brown,2
+2573,Scott Burrell,2
+2574,Mitchell Butler,2
+2575,Sam Cassell,2
+2576,Calbert Cheaney,2
+2577,Michael Curry,2
+2578,Antonio Davis,2
+2580,Terry Dehere,2
+2582,Acie Earl,2
+2585,Harold Ellis,2
+2590,Greg Graham,2
+2594,Anfernee Hardaway,2
+2595,Lucious Harris,2
+2596,Antonio Harvey,2
+2599,Allan Houston,2
+2600,Lindsey Hunter,2
+2601,Bobby Hurley,2
+2604,Ervin Johnson,2
+2605,Popeye Jones,2
+2607,Reggie Jordan,2
+2609,Chris King,2
+2610,Toni Kukoc,2
+2611,George Lynch,2
+2615,Jamal Mashburn,2
+2617,Chris Mills,2
+2619,Gheorghe Muresan,2
+2620,Bo Outlaw,2
+2623,Dino Radja,2
+2624,Isaiah Rider,2
+2625,Eric Riley,2
+2626,James Robinson,2
+2627,Rodney Rogers,2
+2628,Bryon Russell,2
+2631,Nick Van,2
+2632,Rex Walters,2
+2633,Chris Webber,2
+2635,David Wesley,2
+2636,Chris Whitney,2
+2637,Aaron Williams,2
+2639,Derrick Alston,2
+2640,Darrell Armstrong,2
+2645,Chris Childs,2
+2646,Bill Curley,2
+2647,Yinka Dare,2
+2648,Tony Dumas,2
+2649,Howard Eisley,2
+2651,Brian Grant,2
+2652,Darrin Hancock,2
+2654,Grant Hill,2
+2656,Juwan Howard,2
+2658,Eddie Jones,2
+2659,Jason Kidd,2
+2660,Antonio Lang,2
+2662,Donyell Marshall,2
+2663,Darrick Martin,2
+2664,Jim McIlvaine,2
+2665,Aaron McKie,2
+2666,Anthony Miller,2
+2667,Greg Minor,2
+2668,Eric Mobley,2
+2669,Eric Montross,2
+2671,Lamond Murray,2
+2672,Ivano Newbill,2
+2674,Wesley Person,2
+2676,Eric Piatkowski,2
+2677,Eldridge Recasner,2
+2678,Khalid Reeves,2
+2679,Glenn Robinson,2
+2680,Carlos Rogers,2
+2681,Jalen Rose,2
+2682,Clifford Rozier,2
+2683,Trevor Ruffin,2
+2684,Dickey Simpkins,2
+2685,Reggie Slater,2
+2686,Mark Strickland,2
+2688,Zan Tabak,2
+2689,Brooks Thompson,2
+2693,Charlie Ward,2
+2694,Jamie Watson,2
+2695,Monty Williams,2
+2696,Dontonio Wingfield,2
+2697,Sharone Wright,2
+2698,Cory Alexander,2
+2699,Jerome Allen,2
+2700,John Amaechi,2
+2701,Ashraf Amaya,2
+2702,Brent Barry,2
+2705,Travis Best,2
+2710,Jason Caffey,2
+2711,Chris Carr,2
+2717,Sasha Danilovic,2
+2718,Andrew DeClercq,2
+2719,Tyus Edney,2
+2721,Michael Finley,2
+2723,Kevin Garnett,2
+2724,Anthony Goldwire,2
+2727,Alan Henderson,2
+2728,Fred Hoiberg,2
+2732,Voshon Lenard,2
+2739,Antonio McDyess,2
+2740,Loren Meyer,2
+2741,Lawrence Moten,2
+2744,Ed O'Bannon,2
+2745,Greg Ostertag,2
+2746,Cherokee Parks,2
+2747,Theo Ratliff,2
+2748,Bryant Reeves,2
+2749,Don Reid,2
+2751,Shawn Respert,2
+2754,Arvydas Sabonis*,2
+2755,Joe Smith,2
+2756,Eric Snow,2
+2757,Jerry Stackhouse,2
+2758,Damon Stoudamire,2
+2759,Bob Sura,2
+2761,Kurt Thomas,2
+2762,Gary Trent,2
+2764,David Vaughn,2
+2765,Rasheed Wallace,2
+2768,Eric Williams,2
+2769,Corliss Williamson,2
+2770,George Zidek,2
+2771,Shareef Abdur-Rahim,2
+2772,Ray Allen,2
+2773,Shandon Anderson,2
+2775,Bruce Bowen,2
+2778,Kobe Bryant,2
+2779,Marcus Camby,2
+2781,Erick Dampier,2
+2783,Emanual Davis,2
+2784,Tony Delk,2
+2787,Brian Evans,2
+2788,Jamie Feick,2
+2789,Derek Fisher,2
+2790,Todd Fuller,2
+2791,Dean Garrett,2
+2795,Darvin Ham,2
+2797,Othella Harrington,2
+2800,Mark Hendrickson,2
+2801,Allen Iverson*,2
+2802,Kerry Kittles,2
+2803,Travis Knight,2
+2805,Randy Livingston,2
+2807,Matt Maloney,2
+2808,Stephon Marbury,2
+2809,Walter McCarty,2
+2811,Jeff McInnis,2
+2813,Steve Nash,2
+2816,Moochie Norris,2
+2817,Jermaine O'Neal,2
+2819,Vitaly Potapenko,2
+2820,Chris Robinson,2
+2821,Roy Rogers,2
+2822,Malik Rose,2
+2831,Erick Strickland,2
+2833,Antoine Walker,2
+2834,Samaki Walker,2
+2835,Ben Wallace,2
+2836,John Wallace,2
+2838,Jerome Williams,2
+2839,Lorenzen Wright,2
+2840,Tariq Abdul-Wahad,2
+2841,Derek Anderson,2
+2842,Chris Anstey,2
+2844,Tony Battie,2
+2845,Chauncey Billups,2
+2848,Rick Brunson,2
+2849,Kelvin Cato,2
+2850,Keith Closs,2
+2853,Chris Crawford,2
+2854,Austin Croshere,2
+2856,Antonio Daniels,2
+2857,Tim Duncan,2
+2858,Tony Farmer,2
+2859,Danny Fortson,2
+2860,Adonal Foyle,2
+2861,Lawrence Funderburke,2
+2868,Troy Hudson,2
+2869,Zydrunas Ilgauskas,2
+2870,Bobby Jackson,2
+2871,Anthony Johnson,2
+2873,Brevin Knight,2
+2874,Rusty LaRue,2
+2877,Tracy McGrady,2
+2878,Ron Mercer,2
+2882,Kevin Ollie,2
+2883,Anthony Parker,2
+2884,Scot Pollard,2
+2885,Mark Pope,2
+2886,Rodrick Rhodes,2
+2890,Michael Stewart,2
+2893,Maurice Taylor,2
+2894,John Thomas,2
+2895,Tim Thomas,2
+2896,Keith Van,2
+2897,Jacque Vaughn,2
+2898,Eric Washington,2
+2901,Alvin Williams,2
+2907,Corey Benjamin,2
+2908,Mike Bibby,2
+2909,Earl Boykins,2
+2912,Vince Carter,2
+2913,Keon Clark,2
+2914,Kornel David,2
+2915,Ricky Davis,2
+2916,Michael Dickerson,2
+2917,Michael Doleac,2
+2918,Bryce Drew,2
+2920,Pat Garrity,2
+2922,Matt Harpring,2
+2923,Al Harrington,2
+2925,Larry Hughes,2
+2928,Jerome James,2
+2929,Antawn Jamison,2
+2930,Damon Jones,2
+2932,Gerard King,2
+2933,Raef LaFrentz,2
+2934,Rashard Lewis,2
+2935,Felipe Lopez,2
+2936,Tyronn Lue,2
+2937,Sean Marks,2
+2939,Jelani McCoy,2
+2940,Roshown McLeod,2
+2941,Brad Miller,2
+2942,Cuttino Mobley,2
+2943,Nazr Mohammed,2
+2944,Mikki Moore,2
+2946,Tyrone Nesby,2
+2947,Rasho Nesterovic,2
+2948,Dirk Nowitzki,2
+2949,Michael Olowokandi,2
+2951,Ruben Patterson,2
+2952,Paul Pierce,2
+2957,Brian Skinner,2
+2959,Vladimir Stepania,2
+2960,Peja Stojakovic,2
+2962,Robert Traylor,2
+2963,Bonzi Wells,2
+2965,Jahidi White,2
+2966,Jason Williams,2
+2967,Shammond Williams,2
+2970,Rafer Alston,2
+2971,Chucky Atkins,2
+2972,William Avery,2
+2973,Jonathan Bender,2
+2974,Calvin Booth,2
+2976,Cal Bowdler,2
+2977,Ryan Bowen,2
+2980,Elton Brand,2
+2981,Greg Buckner,2
+2982,Rodney Buford,2
+2983,Anthony Carter,2
+2985,Vonteego Cummings,2
+2986,Baron Davis,2
+2988,Obinna Ekezie,2
+2989,Evan Eschmeyer,2
+2990,Jeff Foster,2
+2991,Steve Francis,2
+2992,Devean George,2
+2993,Dion Glover,2
+2994,Adrian Griffin,2
+2995,Richard Hamilton,2
+2996,Chris Herren,2
+2999,Jermaine Jackson,2
+3003,Jumaine Jones,2
+3005,Trajan Langdon,2
+3006,Quincy Lewis,2
+3007,Todd MacCulloch,2
+3008,Corey Maggette,2
+3009,Shawn Marion,2
+3010,Andre Miller,2
+3012,Lamar Odom,2
+3013,Scott Padgett,2
+3014,Milt Palacio,2
+3015,James Posey,2
+3016,Laron Profit,2
+3019,Eddie Robinson,2
+3020,Michael Ruffin,2
+3021,Wally Szczerbiak,2
+3022,Jason Terry,2
+3024,Kenny Thomas,2
+3028,Metta World,2
+3030,Courtney Alexander,2
+3033,Raja Bell,2
+3034,Mark Blount,2
+3035,Brian Cardinal,2
+3036,Mateen Cleaves,2
+3037,Jason Collier,2
+3039,Jamal Crawford,2
+3040,Keyon Dooling,2
+3042,Marcus Fizer,2
+3044,Eddie Gill,2
+3046,A.J. Guyton,2
+3047,Zendon Hamilton,2
+3048,Jason Hart,2
+3049,Donnell Harvey,2
+3050,Eddie House,2
+3051,Marc Jackson,2
+3052,Stephen Jackson,2
+3053,DerMarr Johnson,2
+3055,Dan Langhi,2
+3056,Art Long,2
+3057,Mark Madsen,2
+3058,Jamaal Magloire,2
+3059,Kenyon Martin,2
+3060,Desmond Mason,2
+3063,Stanislav Medvedenko,2
+3064,Chris Mihm,2
+3065,Darius Miles,2
+3066,Mike Miller,2
+3067,Jerome Moiso,2
+3068,Hanno Mottola,2
+3070,Lee Nailon,2
+3071,Eduardo Najera,2
+3072,Ira Newble,2
+3076,Morris Peterson,2
+3077,Chris Porter,2
+3079,Joel Przybilla,2
+3080,Michael Redd,2
+3081,Quentin Richardson,2
+3086,Daniel Santiago,2
+3087,Jabari Smith,2
+3089,DeShawn Stevenson,2
+3090,Stromile Swift,2
+3092,Jake Tsakalidis,2
+3093,Hedo Turkoglu,2
+3095,Jake Voskuhl,2
+3097,Wang Zhizhi,2
+3098,Malik Allen,2
+3099,Chris Andersen,2
+3100,Gilbert Arenas,2
+3102,Carlos Arroyo,2
+3104,Shane Battier,2
+3105,Charlie Bell,2
+3107,Michael Bradley,2
+3109,Primoz Brezec,2
+3112,Kedrick Brown,2
+3113,Kwame Brown,2
+3114,Tierre Brown,2
+3115,Tyson Chandler,2
+3116,Speedy Claxton,2
+3117,Jarron Collins,2
+3118,Jason Collins,2
+3120,Eddy Curry,2
+3121,Samuel Dalembert,2
+3122,DeSagana Diop,2
+3123,Predrag Drobnjak,2
+3124,Maurice Evans,2
+3129,Tremaine Fowlkes,2
+3130,Pau Gasol,2
+3131,Eddie Griffin,2
+3133,Trenton Hassell,2
+3135,Brendan Haywood,2
+3136,Steven Hunter,2
+3137,Mike James,2
+3138,Richard Jefferson,2
+3139,Joe Johnson,2
+3141,Andrei Kirilenko,2
+3142,Terence Morris,2
+3143,Troy Murphy,2
+3145,Tony Parker,2
+3146,Vladimir Radmanovic,2
+3147,Zach Randolph,2
+3148,Zeljko Rebraca,2
+3149,Jason Richardson,2
+3151,Jeryl Sasser,2
+3152,Kenny Satterfield,2
+3153,Brian Scalabrine,2
+3154,Ansu Sesay,2
+3155,Bobby Simmons,2
+3157,Will Solomon,2
+3158,Etan Thomas,2
+3159,Jamaal Tinsley,2
+3160,Oscar Torres,2
+3163,Gerald Wallace,2
+3164,Earl Watson,2
+3165,Rodney White,2
+3166,Loren Woods,2
+3169,Mike Batiste,2
+3170,Lonny Baxter,2
+3171,Carlos Boozer,2
+3172,J.R. Bremer,2
+3173,Devin Brown,2
+3174,Pat Burke,2
+3175,Caron Butler,2
+3176,Rasual Butler,2
+3177,Dan Dickau,2
+3178,Juan Dixon,2
+3179,Melvin Ely,2
+3180,Reggie Evans,2
+3181,Dan Gadzuric,2
+3182,Manu Ginobili,2
+3183,Gordan Giricek,2
+3184,Drew Gooden,2
+3187,Junior Harrington,2
+3189,Nene Hilario,2
+3192,Casey Jacobsen,2
+3193,Marko Jaric,2
+3195,Jared Jeffries,2
+3196,Fred Jones,2
+3199,Roger Mason,2
+3200,Yao Ming*,2
+3201,Ronald Murray,2
+3202,Bostjan Nachbar,2
+3203,Mehmet Okur,2
+3205,Jannero Pargo,2
+3206,Smush Parker,2
+3207,Tayshaun Prince,2
+3212,Kareem Rush,2
+3213,John Salmons,2
+3218,Amar'e Stoudemire,2
+3220,Nikoloz Tskitishvili,2
+3221,Dajuan Wagner,2
+3222,Jiri Welsch,2
+3223,Chris Wilcox,2
+3224,Mike Wilks,2
+3226,Jay Williams,2
+3227,Qyntel Woods,2
+3228,Vincent Yarbrough,2
+3229,Carmelo Anthony,2
+3230,Marcus Banks,2
+3231,Leandro Barbosa,2
+3232,Matt Barnes,2
+3235,Steve Blake,2
+3236,Keith Bogans,2
+3237,Curtis Borchardt,2
+3238,Chris Bosh,2
+3240,Zarko Cabarkapa,2
+3241,Matt Carroll,2
+3243,Brian Cook,2
+3245,Marquis Daniels,2
+3247,Boris Diaw,2
+3249,Ronald Dupree,2
+3251,Francisco Elson,2
+3253,T.J. Ford,2
+3254,Richie Frahm,2
+3258,Willie Green,2
+3261,Udonis Haslem,2
+3262,Jarvis Hayes,2
+3263,Kirk Hinrich,2
+3264,Josh Howard,2
+3266,LeBron James,2
+3268,Linton Johnson,2
+3269,Dahntay Jones,2
+3270,James Jones,2
+3271,Chris Kaman,2
+3272,Jason Kapono,2
+3273,Kyle Korver,2
+3275,Raul Lopez,2
+3276,Keith McLeod,2
+3277,Darko Milicic,2
+3278,Travis Outlaw,2
+3279,Zaza Pachulia,2
+3280,Sasha Pavlovic,2
+3283,Kendrick Perkins,2
+3284,Mickael Pietrus,2
+3285,Zoran Planinic,2
+3286,Luke Ridnour,2
+3288,Darius Songaila,2
+3289,Mike Sweetney,2
+3290,Ime Udoka,2
+3292,Dwyane Wade,2
+3293,Luke Walton,2
+3294,David West,2
+3295,Mo Williams,2
+3296,Tony Allen,2
+3297,Rafael Araujo,2
+3298,Trevor Ariza,2
+3301,Andris Biedrins,2
+3303,Matt Bonner,2
+3308,Josh Childress,2
+3309,Nick Collison,2
+3311,Carlos Delfino,2
+3312,Luol Deng,2
+3313,Chris Duhon,2
+3319,Ben Gordon,2
+3320,Devin Harris,2
+3321,David Harrison,2
+3322,Dwight Howard,2
+3323,Kris Humphries,2
+3324,Andre Iguodala,2
+3325,Didier Ilunga-Mbenga,2
+3326,Royal Ivey,2
+3328,Al Jefferson,2
+3331,Viktor Khryapa,2
+3333,Nenad Krstic,2
+3335,Shaun Livingston,2
+3336,Kevin Martin,2
+3337,Jameer Nelson,2
+3338,Andres Nocioni,2
+3339,Emeka Okafor,2
+3342,Justin Reed,2
+3344,Bernard Robinson,2
+3345,Quinton Ross,2
+3348,J.R. Smith,2
+3349,Josh Smith,2
+3350,Kirk Snyder,2
+3353,Robert Swift,2
+3355,Sebastian Telfair,2
+3358,Beno Udrih,2
+3359,Anderson Varejao,2
+3360,Jackson Vroman,2
+3361,Sasha Vujacic,2
+3362,Delonte West,2
+3363,Damien Wilkins,2
+3364,Dorell Wright,2
+3366,Alan Anderson,2
+3368,Earl Barron,2
+3370,Brandon Bass,2
+3372,Andray Blatche,2
+3373,Andrew Bogut,2
+3375,Andrew Bynum,2
+3376,Will Bynum,2
+3377,Jose Calderon,2
+3378,Travis Diener,2
+3379,Ike Diogu,2
+3380,Monta Ellis,2
+3381,Daniel Ewing,2
+3383,Raymond Felton,2
+3386,Channing Frye,2
+3388,Francisco Garcia,2
+3389,Ryan Gomes,2
+3390,Joey Graham,2
+3391,Stephen Graham,2
+3392,Danny Granger,2
+3394,Gerald Green,2
+3395,Orien Greene,2
+3397,Chuck Hayes,2
+3398,Luther Head,2
+3401,Jarrett Jack,2
+3402,Sarunas Jasikevicius,2
+3403,Amir Johnson,2
+3405,Linas Kleiza,2
+3407,David Lee,2
+3410,Jason Maxiell,2
+3411,Sean May,2
+3412,Rashad McCants,2
+3414,C.J. Miles,2
+3417,Fabricio Oberto,2
+3419,Chris Paul,2
+3420,Johan Petro,2
+3421,Josh Powell,2
+3422,Ronnie Price,2
+3423,Shavlik Randolph,2
+3425,Lawrence Roberts,2
+3426,Nate Robinson,2
+3431,James Singleton,2
+3432,Salim Stoudamire,2
+3436,Ronny Turiaf,2
+3437,Charlie Villanueva,2
+3438,Von Wafer,2
+3440,Hakim Warrick,2
+3441,Martell Webster,2
+3443,Deron Williams,2
+3444,Lou Williams,2
+3445,Marvin Williams,2
+3446,Antoine Wright,2
+3451,LaMarcus Aldridge,2
+3452,Lou Amundson,2
+3453,Hilton Armstrong,2
+3455,Kelenna Azubuike,2
+3456,Renaldo Balkman,2
+3457,J.J. Barea,2
+3458,Andrea Bargnani,2
+3460,Josh Boone,2
+3462,Ronnie Brewer,2
+3464,Shannon Brown,2
+3465,Rodney Carney,2
+3466,Mardy Collins,2
+3469,Yakhouba Diawara,2
+3470,Quincy Douby,2
+3471,Jordan Farmar,2
+3473,Randy Foye,2
+3474,Jorge Garbajosa,2
+3475,Rudy Gay,2
+3476,Mickael Gelabale,2
+3477,Daniel Gibson,2
+3481,Walter Herrmann,2
+3483,Ryan Hollins,2
+3485,Ersan Ilyasova,2
+3486,Alexander Johnson,2
+3487,Solomon Jones,2
+3488,Tarence Kinsey,2
+3490,Kyle Lowry,2
+3496,Paul Millsap,2
+3498,Adam Morrison,2
+3500,Steve Novak,2
+3503,Leon Powe,2
+3505,Chris Quinn,2
+3507,J.J. Redick,2
+3509,Sergio Rodriguez,2
+3510,Rajon Rondo,2
+3511,Brandon Roy,2
+3512,Thabo Sefolosha,2
+3516,Craig Smith,2
+3519,Tyrus Thomas,2
+3520,P.J. Tucker,2
+3524,Marcus Williams,2
+3525,Shawne Williams,2
+3526,Shelden Williams,2
+3527,Arron Afflalo,2
+3531,Joel Anthony,2
+3532,Marco Belinelli,2
+3533,Corey Brewer,2
+3534,Aaron Brooks,2
+3535,Wilson Chandler,2
+3536,Mike Conley,2
+3537,Daequan Cook,2
+3538,Javaris Crittenton,2
+3540,Glen Davis,2
+3542,Jared Dudley,2
+3543,Kevin Durant,2
+3545,Kyrylo Fesenko,2
+3547,Marcin Gortat,2
+3548,Aaron Gray,2
+3549,Jeff Green,2
+3552,Spencer Hawes,2
+3553,Al Horford,2
+3554,Yi Jianlian,2
+3556,Carl Landry,2
+3559,Acie Law,2
+3560,Ian Mahinmi,2
+3561,Dominic McGuire,2
+3562,Josh McRoberts,2
+3563,Jamario Moon,2
+3564,Juan Carlos,2
+3566,Joakim Noah,2
+3567,Oleksiy Pecherov,2
+3573,Luis Scola,2
+3574,Ramon Sessions,2
+3576,Jason Smith,2
+3578,Rodney Stuckey,2
+3579,Al Thornton,2
+3583,C.J. Watson,2
+3585,Sean Williams,2
+3586,Brandan Wright,2
+3587,Julian Wright,2
+3588,Nick Young,2
+3589,Thaddeus Young,2
+3590,Alexis Ajinca,2
+3592,Ryan Anderson,2
+3593,Darrell Arthur,2
+3594,D.J. Augustin,2
+3595,Nicolas Batum,2
+3596,Jerryd Bayless,2
+3597,Michael Beasley,2
+3598,Bobby Brown,2
+3599,Mario Chalmers,2
+3601,Joey Dorsey,2
+3602,Chris Douglas-Roberts,2
+3603,Goran Dragic,2
+3604,Rudy Fernandez,2
+3605,Danilo Gallinari,2
+3606,Marc Gasol,2
+3608,Eric Gordon,2
+3609,Donte Greene,2
+3610,Hamed Haddadi,2
+3612,Roy Hibbert,2
+3613,J.J. Hickson,2
+3614,George Hill,2
+3617,Darnell Jackson,2
+3621,DeAndre Jordan,2
+3622,Kosta Koufos,2
+3624,Courtney Lee,2
+3625,Brook Lopez,2
+3626,Robin Lopez,2
+3627,Kevin Love,2
+3628,Cartier Martin,2
+3629,O.J. Mayo,2
+3630,Luc Mbah,2
+3631,JaVale McGee,2
+3632,Anthony Morrow,2
+3634,Greg Oden,2
+3635,Anthony Randolph,2
+3636,Derrick Rose,2
+3637,Brandon Rush,2
+3640,Marreese Speights,2
+3642,Jason Thompson,2
+3643,Anthony Tolliver,2
+3645,Henry Walker,2
+3646,Kyle Weaver,2
+3647,Sonny Weems,2
+3648,Russell Westbrook,2
+3649,D.J. White,2
+3650,Jawad Williams,2
+3652,David Andersen,2
+3654,Jeff Ayres,2
+3655,Rodrigue Beaubois,2
+3656,DeJuan Blair,2
+3657,Jon Brockman,2
+3658,Derrick Brown,2
+3659,Chase Budinger,2
+3660,DeMarre Carroll,2
+3661,Omri Casspi,2
+3662,Earl Clark,2
+3663,Darren Collison,2
+3664,Dante Cunningham,2
+3666,Stephen Curry,2
+3667,Austin Daye,2
+3668,DeMar DeRozan,2
+3669,Toney Douglas,2
+3670,Wayne Ellington,2
+3671,Tyreke Evans,2
+3672,Jonny Flynn,2
+3673,Sundiata Gaines,2
+3674,Alonzo Gee,2
+3675,Taj Gibson,2
+3677,Danny Green,2
+3679,Tyler Hansbrough,2
+3680,James Harden,2
+3681,Jordan Hill,2
+3682,Jrue Holiday,2
+3685,Serge Ibaka,2
+3688,Brandon Jennings,2
+3689,Jonas Jerebko,2
+3690,James Johnson,2
+3693,Ty Lawson,2
+3694,Wesley Matthews,2
+3695,Eric Maynor,2
+3696,Jodie Meeks,2
+3697,Patty Mills,2
+3698,Byron Mullens,2
+3699,A.J. Price,2
+3702,Jeff Teague,2
+3703,Garrett Temple,2
+3704,Hasheem Thabeet,2
+3705,Marcus Thornton,2
+3706,Terrence Williams,2
+3707,Sam Young,2
+3708,Jeff Adrien,2
+3710,Cole Aldrich,2
+3711,Al-Farouq Aminu,2
+3712,James Anderson,2
+3713,Omer Asik,2
+3714,Luke Babbitt,2
+3715,Eric Bledsoe,2
+3716,Trevor Booker,2
+3718,Avery Bradley,2
+3722,DeMarcus Cousins,2
+3723,Jordan Crawford,2
+3724,Ed Davis,2
+3728,Jeremy Evans,2
+3730,Christian Eyenga,2
+3731,Derrick Favors,2
+3732,Landry Fields,2
+3733,Gary Forbes,2
+3734,Paul George,2
+3735,Blake Griffin,2
+3737,Manny Harris,2
+3738,Gordon Hayward,2
+3740,Xavier Henry,2
+3744,Chris Johnson,2
+3745,Wesley Johnson,2
+3748,Jeremy Lin,2
+3749,Greg Monroe,2
+3750,Timofey Mozgov,2
+3752,Gary Neal,2
+3754,Patrick Patterson,2
+3755,Nikola Pekovic,2
+3757,Quincy Pondexter,2
+3759,Samardo Samuels,2
+3760,Larry Sanders,2
+3761,Kevin Seraphin,2
+3764,Ish Smith,2
+3765,Tiago Splitter,2
+3766,Lance Stephenson,2
+3768,Evan Turner,2
+3769,Ekpe Udoh,2
+3771,Greivis Vasquez,2
+3772,John Wall,2
+3774,Hassan Whiteside,2
+3775,Lavoy Allen,2
+3776,Gustavo Ayon,2
+3778,Bismack Biyombo,2
+3779,MarShon Brooks,2
+3780,Alec Burks,2
+3781,Jimmy Butler,2
+3783,Norris Cole,2
+3787,Kenneth Faried,2
+3790,Jimmer Fredette,2
+3793,Jordan Hamilton,2
+3797,Tobias Harris,2
+3802,Kyrie Irving,2
+3803,Reggie Jackson,2
+3804,Charles Jenkins,2
+3806,Ivan Johnson,2
+3809,Cory Joseph,2
+3810,Enes Kanter,2
+3812,Brandon Knight,2
+3814,Kawhi Leonard,2
+3816,Jon Leuer,2
+3817,DeAndre Liggins,2
+3818,Shelvin Mack,2
+3820,E'Twaun Moore,2
+3821,Darius Morris,2
+3822,Marcus Morris,2
+3823,Markieff Morris,2
+3825,Jeremy Pargo,2
+3826,Chandler Parsons,2
+3828,Ricky Rubio,2
+3830,Iman Shumpert,2
+3832,Chris Singleton,2
+3833,Donald Sloan,2
+3836,Greg Stiemsma,2
+3838,Isaiah Thomas,2
+3839,Lance Thomas,2
+3842,Klay Thompson,2
+3844,Tristan Thompson,2
+3845,Jeremy Tyler,2
+3847,Jan Vesely,2
+3848,Nikola Vucevic,2
+3849,Kemba Walker,2
+3850,Derrick Williams,2
+3851,Elliot Williams,2
+3854,Quincy Acy,2
+3856,Harrison Barnes,2
+3857,Will Barton,2
+3858,Aron Baynes,2
+3859,Kent Bazemore,2
+3860,Bradley Beal,2
+3861,Patrick Beverley,2
+3862,Victor Claver,2
+3863,Chris Copeland,2
+3864,Jae Crowder,2
+3866,Anthony Davis,2
+3867,Nando De,2
+3868,Andre Drummond,2
+3870,Festus Ezeli,2
+3871,Evan Fournier,2
+3872,Joel Freeland,2
+3873,Diante Garrett,2
+3874,Draymond Green,2
+3876,Maurice Harkless,2
+3877,John Henson,2
+3878,Justin Holiday,2
+3880,John Jenkins,2
+3881,Orlando Johnson,2
+3885,Perry Jones,2
+3886,Terrence Jones,2
+3888,Michael Kidd-Gilchrist,2
+3890,Doron Lamb,2
+3891,Jeremy Lamb,2
+3892,Meyers Leonard,2
+3893,Damian Lillard,2
+3895,Kendall Marshall,2
+3897,Khris Middleton,2
+3898,Darius Miller,2
+3900,Donatas Motiejunas,2
+3903,Andrew Nicholson,2
+3904,Kyle O'Quinn,2
+3906,Miles Plumlee,2
+3907,Pablo Prigioni,2
+3908,Austin Rivers,2
+3909,Brian Roberts,2
+3910,Thomas Robinson,2
+3911,Terrence Ross,2
+3912,Robert Sacre,2
+3913,Mike Scott,2
+3915,Alexey Shved,2
+3916,Henry Sims,2
+3917,Kyle Singler,2
+3918,Jared Sullinger,2
+3919,Jeffery Taylor,2
+3922,Mirza Teletovic,2
+3923,Jonas Valanciunas,2
+3925,Dion Waiters,2
+3927,Tony Wroten,2
+3929,Tyler Zeller,2
+3930,Steven Adams,2
+3931,Giannis Antetokounmpo,2
+3932,Pero Antic,2
+3934,Anthony Bennett,2
+3937,Reggie Bullock,2
+3938,Trey Burke,2
+3940,Nick Calathes,2
+3941,Kentavious Caldwell-Pope,2
+3942,Isaiah Canaan,2
+3943,Michael Carter-Williams,2
+3945,Ian Clark,2
+3946,Robert Covington,2
+3947,Allen Crabbe,2
+3948,Seth Curry,2
+3949,Troy Daniels,2
+3952,Dewayne Dedmon,2
+3953,Matthew Dellavedova,2
+3954,Gorgui Dieng,2
+3959,Rudy Gobert,2
+3960,Archie Goodwin,2
+3962,Justin Hamilton,2
+3964,Solomon Hill,2
+3966,Robbie Hummel,2
+3967,Sergey Karasev,2
+3968,Ryan Kelly,2
+3970,Shane Larkin,2
+3972,Alex Len,2
+3973,Ray McCallum,2
+3974,C.J. McCollum,2
+3975,Ben McLemore,2
+3978,Shabazz Muhammad,2
+3981,Mike Muscala,2
+3984,Victor Oladipo,2
+3985,Kelly Olynyk,2
+3987,Mason Plumlee,2
+3988,Otto Porter,2
+3989,Phil Pressey,2
+3991,Andre Roberson,2
+3992,Dennis Schroder,2
+3994,Tony Snell,2
+3998,Hollis Thompson,2
+4001,Jeff Withey,2
+4002,Nate Wolters,2
+4003,Cody Zeller,2
+4006,Kyle Anderson,2
+4010,Tarik Black,2
+4011,Bojan Bogdanovic,2
+4013,Markel Brown,2
+4015,Clint Capela,2
+4018,Jordan Clarkson,2
+4022,Spencer Dinwiddie,2
+4025,James Ennis,2
+4026,Tyler Ennis,2
+4027,Dante Exum,2
+4028,Tim Frazier,2
+4029,Langston Galloway,2
+4030,Aaron Gordon,2
+4032,Jerami Grant,2
+4034,JaMychal Green,2
+4035,P.J. Hairston,2
+4036,Gary Harris,2
+4037,Joe Harris,2
+4038,Rodney Hood,2
+4039,Joe Ingles,2
+4043,Tyler Johnson,2
+4044,Sean Kilpatrick,2
+4046,Joffrey Lauvergne,2
+4047,Zach LaVine,2
+4051,K.J. McDaniels,2
+4052,Doug McDermott,2
+4055,Elijah Millsap,2
+4056,Nikola Mirotic,2
+4058,Shabazz Napier,2
+4059,Nerlens Noel,2
+4060,Lucas Nogueira,2
+4061,Jusuf Nurkic,2
+4062,Johnny O'Bryant,2
+4063,Kostas Papanikolaou,2
+4064,Jabari Parker,2
+4065,Adreian Payne,2
+4066,Elfrid Payton,2
+4067,Dwight Powell,2
+4068,Julius Randle,2
+4069,Damjan Rudez,2
+4070,JaKarr Sampson,2
+4071,Marcus Smart,2
+4073,Nik Stauskas,2
+4076,Noah Vonleh,2
+4077,T.J. Warren,2
+4081,Andrew Wiggins,2
+4085,Justin Anderson,2
+4088,Nemanja Bjelica,2
+4089,Devin Booker,2
+4091,Willie Cauley-Stein,2
+4097,Sam Dekker,2
+4100,Cristiano Felicio,2
+4101,Jerian Grant,2
+4102,Montrezl Harrell,2
+4104,Mario Hezonja,2
+4106,Rondae Hollis-Jefferson,2
+4107,Richaun Holmes,2
+4108,Marcelo Huertas,2
+4112,Stanley Johnson,2
+4113,Nikola Jokic,2
+4114,Tyus Jones,2
+4115,Frank Kaminsky,2
+4118,Trey Lyles,2
+4121,T.J. McConnell,2
+4124,Salah Mejri,2
+4127,Emmanuel Mudiay,2
+4129,Raul Neto,2
+4131,Jahlil Okafor,2
+4132,Kelly Oubre,2
+4134,Cameron Payne,2
+4136,Bobby Portis,2
+4137,Kristaps Porzingis,2
+4138,Norman Powell,2
+4139,Willie Reed,2
+4140,Josh Richardson,2
+4141,Terry Rozier,2
+4142,D'Angelo Russell,2
+4143,Jonathon Simmons,2
+4147,Karl-Anthony Towns,2
+4148,Myles Turner,2
+4149,Rashad Vaughn,2
+4152,Justise Winslow,2
+4156,Alex Abrines,2
+4165,Malcolm Brogdon,2
+4166,Jaylen Brown,2
+4168,Marquese Chriss,2
+4172,Malcolm Delaney,2
+4174,Kris Dunn,2
+4178,Yogi Ferrell,2
+4179,Dorian Finney-Smith,2
+4187,Andrew Harrison,2
+4189,Willy Hernangomez,2
+4190,Buddy Hield,2
+4192,Brandon Ingram,2
+4198,Mindaugas Kuzminskas,2
+4202,Caris LeVert,2
+4204,Timothe Luwawu-Cabarrot,2
+4206,Patrick McCaw,2
+4208,Rodney McGruder,2
+4210,Jamal Murray,2
+4224,Domantas Sabonis,2
+4225,Dario Saric,2
+4233,Tyler Ulis,2
+4239,Isaiah Whitehead,2
