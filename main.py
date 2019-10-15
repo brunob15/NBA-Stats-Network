@@ -2,7 +2,6 @@ import players_graph as ply
 import team_seasons_graph as ts
 import bipartite as bip
 import preprocessing as prep
-import helpers
 
 [seasons_by_player, team_seasons, team_season_by_id] = prep.preprocess()
 
