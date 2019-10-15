@@ -70,14 +70,14 @@ def build_edge(relation):
 def export_csv(players_vtx, players_edges):
     players_vtx.insert(0, ['id', 'label']) # csv file header
 
-    with open('players/vertexes.csv', 'w', newline='') as ply_vtx:
+    with open('exported_csv/players/vertexes.csv', 'w', newline='') as ply_vtx:
         writer = csv.writer(ply_vtx)
         writer.writerows(players_vtx)
     ply_vtx.close()
 
     players_edges.insert(0, ['Source', 'Target', 'Win_Share']) # csv file header
 
-    with open('players/edges.csv', 'w', newline='') as ply_edges:
+    with open('exported_csv/players/edges.csv', 'w', newline='') as ply_edges:
         writer = csv.writer(ply_edges)
         writer.writerows(players_edges)
     ply_edges.close()

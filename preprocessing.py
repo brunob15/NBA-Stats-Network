@@ -2,18 +2,21 @@ import numpy as numpy
 import pandas as pandas
 import math
 import itertools
+import constants as const
 
 YEAR_INDEX = 1
 PLAYER_INDEX = 2
 TEAM_INDEX = 5
 MINUTES_PLAYED_INDEX = 8
 
-dataset_path = 'C:/Users/bruno/Documents/FING/AR/proyecto/Seasons_Stats.csv'
+dataset_path = 'Seasons_Stats.csv'
+standings_path = 'team-season-positions.csv'
 
 dataset = pandas.read_csv(dataset_path, delimiter=',')
-dataset_length = len(dataset)
+standings = pandas.read_csv(standings_path, delimiter=',')
 
 np_dataset = dataset.to_numpy()
+np_standings = standings.to_numpy()
 
 seasons_by_player = {}
 player_name_by_id = {}
@@ -94,4 +97,15 @@ def preprocess():
 
                             team_season_id += 1
 
+    set_standings()
+
     return [seasons_by_player, team_seasons, player_name_by_id]
+
+def set_standings():
+    for row in np_standings:
+        team_season = row[const.TEAM_SEASON]
+        standing = row[const.STANDING]
+        playoffs = row[const.PLAYOFFS]
+
+        team_seasons[team_season]['standing'] = standing
+        team_seasons[team_season]['playoffs'] = int(playoffs)
