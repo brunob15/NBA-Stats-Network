@@ -16,6 +16,7 @@ def players_edges_count(team_seasons):
     print('Cantidad aristas en grafo de jugadores: ', count_players_edges)
 
 def build_graph(team_seasons, seasons_by_player):
+    print('Building Players Graph')
     global sbp
     sbp = seasons_by_player
 

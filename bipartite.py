@@ -4,7 +4,8 @@ import csv
 ts = None
 
 # Returns [vertexes, edges]
-def build_graph(team_seasons, seasons_by_player, team_season_by_id):
+def build_graph(team_seasons, seasons_by_player):
+    print('Building Bipartite Graph')
     global ts
     ts = team_seasons
 

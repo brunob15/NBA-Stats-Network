@@ -99,7 +99,7 @@ def preprocess():
 
     set_standings()
 
-    return [seasons_by_player, team_seasons, player_name_by_id]
+    return [seasons_by_player, team_seasons, team_season_by_id]
 
 def set_standings():
     for row in np_standings:
