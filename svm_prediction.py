@@ -10,4 +10,7 @@ def predict(training, training_labels, to_predict, validation):
     for i in range(len(to_predict)):
         if predictions[i] == validation[i]:
             accurate += 1
-    print('Accuracy: ', accurate / len(to_predict) * 100)
+
+    accuracy = accurate / len(to_predict) * 100
+    print('Accuracy: ', accuracy)
+    return accuracy

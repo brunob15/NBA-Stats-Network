@@ -1,4 +1,5 @@
 import pandas
+import re
 
 import constants as const
 import team_seasons_graph as ts
@@ -38,6 +39,9 @@ def dataset_example(ts, ts_data):
             example.append(0)
 
     return example
+
+def get_last_stat():
+
 
 # An example contains the Win Share stats for the 12 most
 # relevant players in descendant order plus the label of the
@@ -99,6 +103,25 @@ def to_label(neigh):
 
 def label_neighbors(neighbors):
     for ts in list(neighbors.keys()):
-        neighbors[ts] = list(map(to_label, neighbors[ts]))[:3]
+        neighbors[ts] = list(map(to_label, neighbors[ts]))[:5]
 
     return neighbors
+
+##################################################################
+##################################################################
+
+def partition_dataset(teams, dataset, labels, season_to_predict):
+    training = []
+    to_predict = []
+    training_labels = []
+    validation_labels = []
+
+    for index, row in enumerate(dataset):
+        if re.search(season_to_predict, teams[index]):
+            to_predict.append(row)
+            validation_labels.append(labels[index])
+        else:
+            training.append(row)
+            training_labels.append(labels[index])
+
+    return [training, to_predict, training_labels, validation_labels]
