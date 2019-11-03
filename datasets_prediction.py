@@ -4,9 +4,15 @@ import re
 import constants as const
 import team_seasons_graph as ts
 
+NEIGHBORS_TO_CONSIDER = 10
+
+ts_structure = None
 tsn = None
 
 def build_datasets(team_seasons, team_season_by_id):
+    global ts_structure
+    ts_structure = team_seasons
+
     neighbors = build_network_dataset(team_seasons, team_season_by_id)
 
     teams = []
@@ -41,7 +47,7 @@ def dataset_example(ts, ts_data):
     return example
 
 def get_last_stat():
-
+    pass
 
 # An example contains the Win Share stats for the 12 most
 # relevant players in descendant order plus the label of the
@@ -84,10 +90,14 @@ def build_neighbors(ts_edges, team_season_by_id):
         else:
             neighbors[neighbor_b] = [[neighbor_a, players_shared]]
         
-    for neigh in list(neighbors.values()):
-        neigh.sort(reverse=True, key=second)
+    for team_season in list(neighbors.keys()):
+        neighbors[team_season].sort(reverse=True, key=second)
+        neighbors[team_season] = neighbors[team_season][0]
+        neighbors[team_season][0] = ts_structure[team_season]['playoffs']
 
-    neighbors = label_neighbors(neighbors)
+    print('GSW-2017')
+    print(neighbors['GSW-2017'])
+    #neighbors = label_neighbors(neighbors)
 
     return neighbors
 
@@ -103,7 +113,7 @@ def to_label(neigh):
 
 def label_neighbors(neighbors):
     for ts in list(neighbors.keys()):
-        neighbors[ts] = list(map(to_label, neighbors[ts]))[:5]
+        neighbors[ts] = list(map(to_label, neighbors[ts]))[:8]
 
     return neighbors
 

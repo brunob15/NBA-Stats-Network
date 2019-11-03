@@ -45,7 +45,7 @@ plt.plot('seasons', 'accs', data=df, color='blue', linewidth=2, marker='D', labe
 plt.plot('seasons', 'accs_net', data=df, color='red', linewidth=2, marker='o',label='Accuracy with network data')
 plt.xlabel('Season')
 plt.ylabel('Accuracy')
-plt.legend(loc='upper left')
+plt.legend(loc='lower left')
 plt.show()
 
 with open('exported_csv/predictions.csv', 'w', newline='') as pred:
