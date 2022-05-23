@@ -1,8 +1,6 @@
-import numpy as numpy
 import pandas as pandas
-import math
+import numpy as np
 import itertools
-import constants as const
 
 YEAR_INDEX = 1
 PLAYER_INDEX = 2
@@ -12,100 +10,28 @@ MINUTES_PLAYED_INDEX = 8
 dataset_path = 'Seasons_Stats.csv'
 standings_path = 'team-season-positions.csv'
 
-dataset = pandas.read_csv(dataset_path, delimiter=',')
-standings = pandas.read_csv(standings_path, delimiter=',')
+columnas = ['Year', 'Player', 'Tm', 'WS', 'PER']
+dataset = pandas.read_csv(dataset_path, delimiter=',')[columnas]
+dataset = dataset.rename(columns={'Tm': 'Team'})
 
-np_dataset = dataset.to_numpy()
-np_standings = standings.to_numpy()
+# Cuando un jugador jugó en más de un equipo en la misma temporada
+# hay una fila adicional con el valor TOT en la columna del equipo,
+# que contiene el promedio de sus estadisticas en los equipos.
+# Se eliminan estas filas.
+dataset = dataset[(dataset.Team != 'TOT')]
 
-seasons_by_player = {}
-player_name_by_id = {}
-team_seasons = {}
-team_season_by_id = {}
+# Eliminar filas vacías
+dataset['Player'].replace('', np.nan, inplace=True)
+dataset.dropna(subset=['Player'], inplace=True)
 
-MIN_YEAR = 1975
-MIN_MINUTES_PLAYED = 1000
+# Convertir año de float a integer
+dataset['Year'] = pandas.to_numeric(dataset['Year'], downcast='integer')
 
-# Returns [seasons_by_player, team_seasons]
-def preprocess():
-    player_id = 0
+def to_team_year(row):
+    return row['Team'] + '-' + str(row['Year'])
 
-    for row in np_dataset:
-        year = row[YEAR_INDEX]
+dataset['TeamYear'] = dataset.apply(lambda row: to_team_year(row), axis=1)
 
-        # Discard all data prior to 1975
-        if year >= MIN_YEAR:
-            player = row[PLAYER_INDEX]
-            minutes_played = row[MINUTES_PLAYED_INDEX]
-            team = row[TEAM_INDEX]
+# standings = pandas.read_csv(standings_path, delimiter=',')
 
-            if not (isinstance(player, float) and math.isnan(player)): # Discard rows with no player
-                # When a player played for more than one team in one season
-                # there is a row with TEAM = 'TOT' that sums the stats of that player
-                # for all teams he played for in that season (redundant minutes played).
-                # I discard that row.
-                if team != 'TOT':
-                    if player in seasons_by_player:
-                        seasons_by_player[player]['seasons'].append(row)
-                        seasons_by_player[player]['minutes'] += minutes_played
-                    else:
-                        seasons_by_player[player] = {}
-                        seasons_by_player[player]['seasons'] = [row]
-                        seasons_by_player[player]['minutes'] = minutes_played
-                        seasons_by_player[player]['id'] = player_id
-
-                        player_name_by_id[player_id] = player
-
-                        player_id += 1
-
-    # Discard all players that played less than 1000 minutes in their careers
-    for player in list(seasons_by_player.keys()):
-        if seasons_by_player[player]['minutes'] < MIN_MINUTES_PLAYED:
-            del seasons_by_player[player]
-
-    players_filtered = list(seasons_by_player.keys())
-
-    team_season_id = 1
-    for row in np_dataset:
-        year = row[YEAR_INDEX]
-
-        # Discard all data prior to 1975
-        if year >= MIN_YEAR:
-            player = row[PLAYER_INDEX]
-            minutes_played = row[MINUTES_PLAYED_INDEX]
-            team = row[TEAM_INDEX]
-
-            if not (isinstance(player, float) and math.isnan(player)):
-                if player in players_filtered:
-                    # Discard rows with no player
-                    # When a player played for more than one team in one season
-                    # there is a row with TEAM = 'TOT' that sums the stats of that player
-                    # for all teams he played for in that season (redundant minutes played).
-                    # I discard that row.
-                    if team != 'TOT':
-                        year = str(int(year))
-                        team_season = team + '-' + year
-
-                        if team_season in team_seasons:
-                            team_seasons[team_season]['player-stats'].append(row)
-                        else:
-                            team_seasons[team_season] = {}
-                            team_seasons[team_season]['player-stats'] = [row]
-                            team_seasons[team_season]['id'] = team_season_id
-
-                            team_season_by_id[team_season_id] = team_season
-
-                            team_season_id += 1
-
-    set_standings()
-
-    return [seasons_by_player, team_seasons, player_name_by_id]
-
-def set_standings():
-    for row in np_standings:
-        team_season = row[const.TEAM_SEASON]
-        standing = row[const.STANDING]
-        playoffs = row[const.PLAYOFFS]
-
-        team_seasons[team_season]['standing'] = standing
-        team_seasons[team_season]['playoffs'] = int(playoffs)
+dataset.to_csv("exported_csv/team_players.csv", index=False)
